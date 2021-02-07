@@ -1,6 +1,7 @@
 {:paths ["src" "resources"]
  :deps {org.clojure/clojure {:mvn/version "1.10.1"}
-        cheshire {:mvn/version "5.10.0"}}
+        cheshire {:mvn/version "5.10.0"}
+        clj-time/clj-time {:mvn/version "0.15.2"}}
  :aliases
  {:test {:extra-paths ["test"]
          :extra-deps {org.clojure/test.check {:mvn/version "1.1.0"}}}
