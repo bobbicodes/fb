@@ -1,6 +1,10 @@
 # fb
 
-FIXME: my new library.
+A library for "Personal Analytics"
+
+-or-
+
+A way to browse my facebook posts without having to use their awful app
 
 ## Usage
 
