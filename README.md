@@ -6,6 +6,8 @@ A library for "Personal Analytics"
 
 A way to browse my facebook posts without having to use their awful app.
 
+## Rationale
+
 Since 2007 I've basically used Facebook as a journal, or "Captain's Log".
 Thus it has become the most consistent source of data about my life.
 However, the interests of social media go against this philosophy because they need to encourage content to be "throwaway" so they can maintain a steady spray of shit in our faces. Therefore they make no effort to optimize navigating archives and might even go out of their way to make it difficult, negating what I see as the medium's best strength - an archive of our digital lives.
