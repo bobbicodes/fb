@@ -33,3 +33,156 @@ nil
 clj꞉porkostomus.fb꞉> 
 "Wed, 21 Nov 2007 00:31:38 +0000"
 clj꞉porkostomus.fb꞉> 
+:basic-date                             20210207
+:basic-date-time                        20210207T222218.997Z
+:basic-date-time-no-ms                  20210207T222218Z
+:basic-ordinal-date                     2021038
+:basic-ordinal-date-time                2021038T222218.997Z
+:basic-ordinal-date-time-no-ms          2021038T222218Z
+:basic-t-time                           T222218.997Z
+:basic-t-time-no-ms                     T222218Z
+:basic-time                             222218.997Z
+:basic-time-no-ms                       222218Z
+:basic-week-date                        2021W057
+:basic-week-date-time                   2021W057T222218.997Z
+:basic-week-date-time-no-ms             2021W057T222218Z
+:date                                   2021-02-07
+:date-hour                              2021-02-07T22
+:date-hour-minute                       2021-02-07T22:22
+:date-hour-minute-second                2021-02-07T22:22:18
+:date-hour-minute-second-fraction       2021-02-07T22:22:18.997
+:date-hour-minute-second-ms           
+  2021-02-07T22:22:18.997
+:date-time                              2021-02-07T22:22:18.997Z
+:date-time-no-ms                        2021-02-07T22:22:18Z
+:hour                                   22
+:hour-minute                            22:22
+:hour-minute-second                     22:22:18
+:hour-minute-second-fraction            22:22:18.997
+:hour-minute-second-ms                  22:22:18.997
+:mysql                                  2021-02-07 22:22:18
+:ordinal-date                           2021-038
+:ordinal-date-time                      2021-038T22:22:18.997Z
+:ordinal-date-time-no-ms                2021-038T22:22:18Z
+:rfc822                                 Sun, 07 Feb 2021 22:22:18 +0000
+:t-time                                 T22:22:18.997Z
+:t-time-no-ms                           T22:22:18Z
+:time                                   22:22:18.997Z
+:time-no-ms                             22:22:18Z
+:week-date                              2021-W05-7
+:week-date-time                         2021-W05-7T22:22:18.997Z
+
+:week-date-time-no-ms                   2021-W05-7T22:22:18Z
+:weekyear                               2021
+:weekyear-week                          2021-W05
+:weekyear-week-day                      2021-W05-7
+:year                                   2021
+:year-month                             2021-02
+:year-month-day                         2021-02-07
+nil
+clj꞉porkostomus.fb꞉> 
+"2007-11-21"
+clj꞉porkostomus.fb꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+#clj-time/date-time "1986-10-14T00:00:00.000Z"
+clj꞉porkostomus.fb꞉> 
+529632000
+clj꞉porkostomus.fb꞉> 
+; Syntax error compiling at (src/porkostomus/fb.clj:19:3).
+; Unable to resolve symbol: posts in this context
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/posts
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1287900509,
+  :data
+  [{:post
+    "\"Honey, hippies just aren't what they used to be. This guy was on the highway, wearing a long robe, and a turban... and then he's at the synagogue with his computer!\" - Mayor of the Moshav to his wife about me"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1287747342, :data [{:post "at the Carlebach moshav"}], :title "Bobby Towers updated their status."}
+ {:timestamp 1287653883,
+  :data
+  [{:post
+    "just spent over an hour typing a really funny note for you guys... then pressed the wrong button and it's gone. So just pretend that you all read it and loved it and wrote very witty comments for me and I'll let it go."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1287626066,
+  :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaaqobh"}}]}],
+  :data
+  [{:post
+    "Last year I found an old tape at my dad's house that was partially chewed up! I attempted to salvage and digitize it, and am sharing this link only with select people who were around in those days!"}
+   {:update_timestamp 1287626066}]}
+ {:timestamp 1287615451,
+  :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaaqobh"}}]}],
+  :data
+  [{:post
+    "Last year I found an old tape at my dad's house that was partially chewed up! I attempted to salvage and digitize it, and am sharing this link only with select people who were around in those days!"}
+   {:update_timestamp 1287615451}]}
+ {:timestamp 1287615368,
+  :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaaqobh"}}]}],
+  :data
+  [{:post
+    "Last year I found an old tape at my dad's house that was partially chewed up! I attempted to salvage and digitize it, and am sharing this link only with select people who were around in those days!"}
+   {:update_timestamp 1287615368}]}
+ {:timestamp 1287615317,
+  :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaaqobh"}}]}],
+  :data
+  [{:post
+    "Last year I found an old tape at my dad's house that was partially chewed up! I attempted to salvage and digitize it, and am sharing this link only with select people who were around in those days!"}
+   {:update_timestamp 1287615317}]}
+ {:timestamp 1287605381,
+  :attachments
+  [{:data
+    [{:media
+      {:uri
+       "photos_and_videos/excusemecanigetapicturewithyou_8m29WfnToQ/66060_458987174320_2063680_n_458987174320.jpg",
+       :creation_timestamp 1287605241,
+       :media_metadata {:photo_metadata {:upload_ip "192.118.11.111"}},
+       :title "excuse me, can i get a picture with you?",
+       :description "guy at a music/electronics store in gu'ula: \"where are you from, egypt?\""}}]}
+   {:data
+    [{:place
+      {:name "Jerusalem, Israel",
+       :coordinate {:latitude 31.7833, :longitude 35.2167},
+       :address "Jerusalem",
+       :url "https://www.facebook.com/pages/Jerusalem-Israel/106401656063896"}}]}],
+  :title "Bobby Towers added a new photo."}
+ {:timestamp 1287598447,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0yE8FmKcZdM"}}]}],
+  :data
+  [{:post
+    "likes deep, wild biblical interpretations as much as the next guy, but when you want a commentary that explains the simple meaning of the words, Seforno is much preferable to others like Rashi or Ramban."}
+   {:update_timestamp 1287598447}]}
+ {:timestamp 1287596898,
+  :data
+  [{:post
+    "went to withdraw 2000 sheqels from my bank account. so the guy hands me 20 200's. makes sense, right? then right when i was about to walk away he realized his mistake. DARN!"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1287579821,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=nWkEbddaToI"}}]}],
+  :data [{:post "More fun with cameras and cappuccino."} {:update_timestamp 1287579821}]}
+ {:timestamp 1287481377,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=OGXGNa-B8Is"}}]}],
+  :data [{:post "Testing out my new webcam!"} {:update_timestamp 1287481377}]}
+ {:timestamp 1286385015,
+  :data [{:post "got taken into a guest house in Tsfat for free... and it just happens to be called \"×¨×¤××\"!"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1286324969,
+  :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaaqobh"}}]}],
+  :data [{:post "An old classic of mine, recorded in 2004 in Cleveland, OH"} {:update_timestamp 1286324969}]}
+ {:timestamp 1286294773,
+  :data
+  [{:post
+    "What's with everyone posting where they like their coffee?\nI like it over the campfire, with heavy cream.\nSure beats in McDonald's drivethru."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1286128320,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url
+       "http://www.flash90.com/fotoweb/cmdrequest/rest/Preview.fwx?rt=1&f=B2369A8FDD0CD36E5DB75F3A135B3DF05198682CF40DBC845EDC9922289B2FD6C32EEA7900997349B879A4A37341D37331EC1A8EF4A4D9E3B31F856EAC70A790A82509262F490CCF46686079101DD8963D74C786B454A27A08A988F0E96EDB7D033B88CEA65770973543C942B97D98BA86EC1B0B44F092A72CEDEE40C9C1265E1A107A480E75FBC3397D87DD9F32BF785E3578A5274D6D78A52BFC60A719FE79E80D6073A176EF4498BDACCDD90D29CD&sz=450"}}]}],
+  :data
+  [{:post "The paparazzi are already after me. I'm drinking tea, not panhandling."} {:update_timestamp 1286128320}]}
+ {:timestamp 1285935015,
+  :data [{:post "just arrived in Tzfat! My welcoming committee: Police, as usual."}],
+  :title "Bobby Towers updated their status."})
+clj꞉porkostomus.fb꞉> 
