@@ -1,0 +1,493 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+c o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Jacking in...
+; Starting Jack-in Terminal: clojure -Sdeps '{:deps {nrepl/nrepl {:mvn/version,"0.8.3"},cider/cider-nrepl {:mvn/version,"0.25.8"}}}'  -m nrepl.cmdline --middleware "[cider.nrepl/cider-middleware]"
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS: 
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉>  ; Use `alt+enter` to evaluate
+; Jack-in done.
+clj꞉user꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/posts
+clj꞉porkostomus.fb꞉> 
+({"timestamp" 1601006818,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120094271_10158726534304321_5872319038484817638_n_10158726534299321.jpg",
+       "creation_timestamp" 1601006792,
+       "media_metadata"
+       {"photo_metadata"
+        {"camera_model" "EasyCamera: EasyCamera",
+         "taken_timestamp" 1601006520,
+         "modified_timestamp" 1601006520,
+         "orientation" 1,
+         "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+       "title" "Timeline Photos",
+       "description"
+       "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}}
+     {"media"
+      {"uri"
+       "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120193263_10158726971324321_4411199438683626634_n_10158726971319321.jpg",
+       "creation_timestamp" 1601030331,
+       "media_metadata"
+       {"photo_metadata"
+        {"camera_model" "EasyCamera: EasyCamera",
+         "taken_timestamp" 1601030115,
+         "modified_timestamp" 1601030115,
+         "orientation" 1,
+         "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+       "title" "Timeline Photos"}}]}],
+  "data"
+  [{"post"
+    "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}]}
+ {"timestamp" 1597356913,
+  "data" [{"post" "I'm leaving Ashland in the morning. Hopefully... to go HOME."}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1597179708,
+  "data"
+  [{"post" "Anyone in Oregon headed North this/next week? I'm looking for a ride to the Seattle/Bellingham area."}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1596563895,
+  "data"
+  [{"post"
+    "COVID Lockout Day #25\n\nSome good news: I've applied for housing and my case worker is very optimistic about the timeline. It may just be a matter of months!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1596143903,
+  "attachments" [{"data" [{"external_context" {"url" "https://www.youtube.com/watch?v=4CU8gYYkwSw"}}]}],
+  "data"
+  [{"post"
+    "https://www.youtube.com/watch?v=4CU8gYYkwSw My new favorite animal, the Water Skipper. I watch them in the creek every morning (I live on the beach) and they just inspire me so much the way that they appear to struggle, trying so hard to swim against the current and it's like, \"What are you doing?\". But if you watch them for long enough, you see that they actually get places.\n\nEDIT: The \"I live on the beach\" part is a joke. I'm still homeless. But now... I have actual work to do. After 4 years of struggling, I have a path to self-sufficiency and just need a temporary pad to get me started. If you know anyone in the NW area (or anywhere, really!) with housing or camping arrangements, please do let them know that a hard working person needs a safe place to go."}
+   {"update_timestamp" 1596144680}]}
+ {"timestamp" 1595618092,
+  "data"
+  [{"post"
+    "COVID Lockout Day #14\n\nI have some good news that has arrived in the midst of my personal housing crisis! I've accepted a job building applications for the mental health industry, specifically addiction recovery. And it happened right here on Facebook - so there! It only took 10 years for something productive to come out of social media but it finally happened!\n\nThis means I need to double down on my search for shelter and ultimately somewhere to move my home office to. Open to any arrangements large or small, however length of time is comfortable. Thanks!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1595017711,
+  "attachments"
+  [{"data"
+    [{"text" "2 Years Ago"}
+     {"text" "Jul 17, 2018, 3:27 PM"}
+     {"text" "Calvin for president!"}
+     {"media"
+      {"uri"
+       "photos_and_videos/TimelinePhotos_abuzpnE9TQ/37305814_10156550404609321_8319692917568438272_n_10156550404604321.jpg",
+       "creation_timestamp" 1531866452,
+       "media_metadata" {"photo_metadata" {"upload_ip" "2601:602:980:1cc2:f129:d23:832c:d9d"}},
+       "title" "Timeline Photos",
+       "description" "Calvin for president!"}}]}],
+  "data" [{"post" "Calvin/Hobbes 2020"} {"update_timestamp" 1595017711}],
+  "title" "Bobby Towers shared a memory."}
+ {"timestamp" 1594940063,
+  "data"
+  [{"post"
+    "I'm often asked why I'm not collecting disability, since I only have one working hand. My accident happened in 2015, and indeed if things had worked out differently, I wouldn't have to work another day in my life. Because of my failure to do this I've been a heavy burden on friends and family ever since. Some of them have literally begged me to pursue it, and my failure to has been chalked up to some combination of negligence and stubbornness. I certainly don't claim to *not* be those things. But the reason here is much different, and hopefully I can explain it a little to clear up some confusion. What follows is not my personal opinion, but the result of several doctor visits and medical examinations.\n\nA person's disability status is dependent upon their occupation. What would be a completely devastating event (eg. losing a hand) to one person, say, a carpenter, might be practically inconsequential to another, or at least not a significant hinderance to their productivity in their chosen profession. I happen to fall into this second category. Believe it or not... programming really does not require much typing at all. Mostly just thinking, and I do that just fine. This is why it is common to see people collecting checks for what seems like much less serious shortcomings than mine.\n\nIn 2016, I went back to school (again). But this time I decided to put my music degree on hold and study more academic subjects, eventually falling in love with psychology. But then, my funding suddenly went away and I ended up on the street, and was forced to leave Austin because the police would not leave me alone. It has been a great struggle ever since, but I've managed to teach myself computer science over the last 4 years and have gained some very employable skills.\n\nIt's simply a matter of persistence. I have 3 different potential employers I'm talking to right now. But much more importantly, I absolutely love what I do! I wouldn't trade this decision for anything."}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1594934297,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/TimelinePhotos_abuzpnE9TQ/109817490_10158535580839321_2566378096777248152_n_10158535580834321.jpg",
+       "creation_timestamp" 1594934185,
+       "media_metadata" {"photo_metadata" {"orientation" 1, "upload_ip" "207.55.226.158"}},
+       "title" "Timeline Photos",
+       "description"
+       "My polynomial calculator is almost done.\n\nLive app: https://porkostomus.github.io/mecca-math/\nSource code: https://github.com/porkostomus/mecca-math"}}]}],
+  "data"
+  [{"post"
+    "My polynomial calculator is almost done.\n\nLive app: https://porkostomus.github.io/mecca-math/\nSource code: https://github.com/porkostomus/mecca-math"}]}
+ {"timestamp" 1594764781,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/MobileUploads_XVlsTXO8Mg/109002035_10158529548984321_4836218294892651824_o_10158529548969321.jpg",
+       "creation_timestamp" 1594764322,
+       "media_metadata"
+       {"photo_metadata"
+        {"camera_make" "ATT_AM_Z432V2.0.11B01-S",
+         "camera_model" "Novatek NT99252 2.0 MP YUV",
+         "taken_timestamp" 1594742021,
+         "orientation" 1,
+         "upload_ip" "107.242.125.39"}},
+       "title" "Mobile Uploads"}}
+     {"media"
+      {"uri"
+       "photos_and_videos/MobileUploads_XVlsTXO8Mg/108211774_10158529548979321_4925237137482773209_o_10158529548974321.jpg",
+       "creation_timestamp" 1594764322,
+       "media_metadata"
+       {"photo_metadata"
+        {"camera_make" "ATT_AM_Z432V2.0.11B01-S",
+         "camera_model" "Novatek NT99252 2.0 MP YUV",
+         "taken_timestamp" 1594742021,
+         "orientation" 1,
+         "upload_ip" "107.242.125.39"}},
+       "title" "Mobile Uploads"}}]}],
+  "data"
+  [{"post"
+    "covid lockout day #4\n\ntired of being homeless in ashland so i established myself a personal island in the middle of the creek. here are photos of my front and back yard. just big enough to sleep without falling in. 30 second walk from downtown. surrounded by waterfalls. i think this was the first place i slept when i came here almost 15 years ago, and it was these waters that i used to dunk my utensils in to make them kosher"}]}
+ {"timestamp" 1594702438,
+  "data"
+  [{"post"
+    "covid lockout day #3\n\ndude just assured me everybody's gonna be fine because none of his friends have gotten sick.\n\ndon't know if i should be really happy for him, or sad because he needs more friends"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1594665654,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/MobileUploads_XVlsTXO8Mg/109058613_10158526019579321_6039570649831838467_o_10158526019564321.jpg",
+       "creation_timestamp" 1594665546,
+       "media_metadata"
+       {"photo_metadata"
+        {"camera_make" "ATT_AM_Z432V2.0.11B01-S",
+         "camera_model" "Novatek NT99252 2.0 MP YUV",
+         "taken_timestamp" 1594665254,
+         "orientation" 1,
+         "upload_ip" "107.242.113.7"}},
+       "title" "Mobile Uploads",
+       "description"
+       "life hack: you can sneak the other half of your pizza into the library if you make the box smaller"}}]}],
+  "data"
+  [{"post" "life hack: you can sneak the other half of your pizza into the library if you make the box smaller"}]}
+ {"timestamp" 1594572792,
+  "data"
+  [{"post"
+    "Covid Lockout Day #2\n\nSleep? We don't do much of that while in lockout. Not very safe, ironically because of the threat of police harassment. That's not what this post is about, but having spent many years on the street, reality has reminded me once again who the real thugs are.\n\nAnother thing that I've rediscovered about myself is that I come up with some of my best ideas when I walk around all night. And it could be that the rhythm of my footsteps activates my musical sense, because I'm turning my attention once again to the construction of my software synthesizer, the MECCA Platform. And this time it's all about math.\n\nWhat's the huge deal with me and math lately, anyway? Well, the truth is, I'm 39 years old and the first time I actually used math was 3 years ago, when I decided to start building my own music application from first principles.\n\nI used to laugh in people's faces who would suggest such a ridiculous idea, that *music* has anything to do with *math*. But now I know that they were right, and now I know why.\n\nThis is all fitting together quite well, because this application, \"MECCA\", the Music Education Composition Creation Application, is all about being a tool for music production that also *teaches* you about theory and sound design by exposing to the user sonic parameters that are directly modeled from the acoustic principles at play, which become the actual parameters used to modulate the soundwaves. In addition to this educational component, another factor at play is *my own* education, which is being forged by the grand journey of me building the thing! I'm teaching *myself* about the fundamentals of music by learning to code a synth myself. And the stuff I'm discovering has been rather mindblowing:\n\nMusic IS math. I wouldn't go so far as to say that's *all* it is, but a nearly infinite amount of computation is involved in its every aspect. Here they are, in the order of my own discovery:\n\n1. The pitches of the notes. The human faculty of audio perception is very interesting because it operates on a logarithmic scale, both in volume (dB) and pitch (Hz). In pitch, this is clearly demonstrated by the frets of a guitar, which get closer together as you go higher up the neck. This is because each note needs to be calculated as 2^1/12 the frequency of the one preceding it.\n\n2. Tempo (bpm). Effectively this comes down to the *length* of the notes. To calculate note length of a quarter-note from beats-per-minute you need to divide 60 seconds by the desired tempo. Fun fact: James Best, my high school jazz band director once asked, \"which note determines the tempo of the song?\" The correct answer: the second one. It's the 2nd beat that tells you how far they are apart, right? While that makes sense in a practical setting, as far as the notes are concerned the answer is *every note*! Every note needs to be exactly the correct length with respect to the song's tempo.\n\n3. The very soundwaves themselves! Any acoustic sound can be mathematically described by its Fourier constants - a set of Complex (Real/Imaginary) numbers that, when run through a FFT (Fast Fourier Transform), will result in the production of the waveform.\n\n4. Scales. Music notation is in fact a graph-fitting problem, as the notes are spaced at cycling intervals from each other. These scales must then be fit along the graph - representing the intervals on a 2-dimensional plane with time as the x-axis and pitch as the y-axis.\n\n5. Harmony. The overtone series comes into play here, which is an infinitely ascending cascade of notes that emanate from any acoustic tone.\n\n6. *All the computation performed by the human auditory system*. This includes the entire phenomenon of psychoacoustics, also related to the overtone series above. This is how our sense of hearing is adapted towards identifying the location and quality of the sound as it is situated in the sonic environment.\n\nMost of these connections were relatively unknown to me when I began this project just a few years ago. I knew that I wanted to create a synthesizer/sequencer with a more transparent and interactive set of parameters by which to control the sound. For example, it was to feature a \"kick-drum wizard\" that guides you through the construction of a kick drum, giving the experienced producer unprecedented control while unobtrusively revealing to the novice what sonic building blocks are composed to create a kick drum. But I just realized it goes much deeper still!\n\nIntroducing: MECCA-Math. The first digital audio workstation that is controlled completely algorithmically, exposing the very math that affects the character of the sound as the primary method of user input. We will be able to adjust the equations and receive sonic feedback in real time, bridging the intuitive gap between the human experience of music that we all know and love, and the algorithms that constitute them, all presented through a human-tractable interface tuned to provide the optimal balance of sonic flexibility while subtly encouraging the use of effective culturally prescribed idioms.\n\nI surely can't be the *only* one excited about this...\nMECCA Music Platform"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1594523477,
+  "attachments" [{"data" [{"external_context" {"url" "https://en.liberapay.com/porkostomus/"}}]}],
+  "data"
+  [{"post"
+    "Covid Lockout Day #1\n\nWhy \"lockout\"? Because when you don't have anywhere to lockdown *to*, you're *locked out*. So I might as well make the best of this unprecedented experience by writing about it each day that I'm able to.\n\nFortunately????? (for me???) this lockdown is a bit of a joke. Because there actually seems to be plenty of places open. There's people hanging out everywhere - it's like a festival, actually. Pretty weird... feels all sorts of wrong. But life must go on. If this was a real lockdown, you'd think there wouldn't be anywhere for me to go, but today I went to the library and was actually able to gather enough mental focus to get a bunch of work done. Helping people in the community with software issues, expanding my computer algebra system I'm writing for a new educational platform, and taking part in the Exercism Markathon - a day my team planned for us all to spend working on our big upcoming release.\n\nWhere am I going to sleep? Don't know yet. And tomorrow is Sunday which is usually the trickiest as far as library hours go. I'm so dead focused on working on these projects that I refuse to let anything stop me, so every minute is spent planning how I am to maintain progress and will be documenting it all right here.\n\nI'm excited to be making some great progress on my math library: https://github.com/porkostomus/algae It now includes a complete set of functions for performing operations on polynomials. Next up is complex numbers. What this Computer Algebra System (CAS) is about is creating a system for people to learn math through programming. One way you could look at it is that I'm making a thing to help students cheat on their math homework. But the joke is actually on them, I guess, because through this process it ends up teaching them the important concepts behind the math while skipping the painful parts that cause too many people to grow up thinking that they hate math.\n\nMy team and I at exercism.io have been hard at work. Our website, which is already super cool and is made up of thousands of people all learning and teaching each other, is being completely revamped into an online coding platform. I've taken up the responsibility of building the code analyzer that works behind the scenes testing the user's solutions and providing instantaneous feedback. And I'm also the main person designing the curriculum and writing the exercises for the Clojure track. It's a wonderful and very rewarding thing to be involved with.\n\nIt's probably too soon for this idea, but I'm thinking I'd like to teach a programming class right here at the Ashland Public Library. Since thats where I'm gonna be spending all my time, it just makes sense, right? If you know anyone who might be interested in a new career in making computer beep boop boop beep... please spread the word. The classes will be free, and the only donations I'll be accepting are leads on places to live.\n\nIf for some reason you'd like to support me on these endeavors by sending me money, that'd be awesome too! Every coffee that I'm able to purchase is another chance for me to sit down and get shit done.\n\nPatreon: https://www.patreon.com/porkostomus?fan_landing=true\nLiberapay: https://en.liberapay.com/porkostomus/\nPayPal: btowers793@gmail.com"}
+   {"update_timestamp" 1594525692}]}
+ {"timestamp" 1594498973,
+  "attachments"
+  [{"data"
+    [{"place"
+      {"name" "Ashland, Oregon",
+       "coordinate" {"latitude" 42.1914, "longitude" -122.701},
+       "address" "Ashland, OR 97520"}}]}
+   {"data"
+    [{"place"
+      {"name" "Ashland, Oregon",
+       "coordinate" {"latitude" 42.1914, "longitude" -122.701},
+       "address" "Ashland, OR 97520",
+       "url" "https://www.facebook.com/pages/Ashland-Oregon/103787782993295"}}]}],
+  "data"
+  [{"post"
+    "At the library doing math problems.\n\nI've often wondered if people who end up liking math tend to come from chaotic backgrounds where there is lots of uncertainty, so they take great comfort in those trusty numbers that always behave predictably, finding solace by immersing themselves in challenges that are clearly solvable if you just put your mind to it. It sure is refreshing.\n\nThis feels very strange. I wasn't expecting to be able to just walk in somewhere and start working, but I'm going to make use of it while it lasts."}],
+  "title" "Bobby Towers was in Ashland, Oregon."}
+ {"timestamp" 1594432221,
+  "data" [{"post" "Heading to Ashland tomorrow"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1594225569,
+  "data"
+  [{"post"
+    "I'm currently in northern California and looking for a place to live and work from, for a week or two or possibly longer if it happens to work out.\n\nMy goal is to live in a community where my skills can be put to use. I work part-time as a coding instructor but it's all online, I need more interaction. I enjoy teaching and am involved in many activities that I find incredibly fun, like playing music and making things, both physical and inside the computer. I really want to find others who share these interests, because I'm building a new career and many mutual opportunities could arise if I could pool my talents with others.\n\nSome compromises obviously must be made while in pursuit of this dream, and this is an extremely awkward time for everyone, so I'm open to any type of lodging at all, even camping possibilities.  All I need to be productive are power, internet and phone service.\n\nAny leads much appreciated!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1593020413,
+  "attachments"
+  [{"data"
+    [{"external_context" {"url" "https://eugene.craigslist.org/rid/d/seeking-ride-to-north-ca/7147623863.html"}}]}],
+  "data"
+  [{"post"
+    "Heading down to Northern Cali in a day or two: https://eugene.craigslist.org/rid/d/seeking-ride-to-north-ca/7147623863.html"}
+   {"update_timestamp" 1593020413}]}
+ {"timestamp" 1592957770, "data" [{"post" "I'm in Eugene!"}], "title" "Bobby Towers updated their status."}
+ {"timestamp" 1592485485,
+  "data"
+  [{"post"
+    "The first time I needed to do one of those major fb friend \"deleting sprees\", but omg that shit takes forever like no. Here's what works much better:\n\nIt doesn't really matter if you remain friends, as long as they're not bothering you with stupid shit. Just *unfollow* them. It's fast, and you can do it all without ever leaving the newsfeed so you can strengthen the quality of your network without interrupting your flow. You just click on the three little dots on the top-right of their stupid post, and *unfollow* their ass. Super!\n\nAnother tip: Do this while in *recent posts* mode, that way you are most effectively eliminating the ones that are actively posting stupid shit. \n\nThis has been a PSA so we can all stop spending hours sorting through profiles trying to figure out whether I even know this person"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1592480018,
+  "data"
+  [{"post"
+    "I have an important video call to make next week.  Normally I'd do this at a library or something but... yeah. I'm in need of a quiet place with power and internet for about 2 hours, and can compensate you $50 for the use of the space. Preferably somewhere in the NW US but will travel farther if necessary. Thanks!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1592470322,
+  "attachments" [{"data" [{"external_context" {"url" "https://hnarayanan.github.io/springer-books/"}}]}],
+  "data" [{"post" "https://hnarayanan.github.io/springer-books/"} {"update_timestamp" 1592470322}]}
+ {"timestamp" 1592414256,
+  "data" [{"post" "Looking for a ride to Seattle :)\nHave gas $"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1592341600,
+  "data"
+  [{"post"
+    "How to talk to people harboring unacknowledged racism:\n\n1. Don't. While it is a very noble thing to try to educate others, the person must be ready to receive what you are trying to communicate or you will be likely met with unexpected results. This can be extremely difficult especially if they are family or close friends, but there are most likely better ways you could be spending your time and energy.\n\n2. Don't call them a racist! This is unproductive, lacking in compassion, and will actually completely backfire and drive them deeper into their corner. No one ever said, \"Hmm, that person on the internet just called me a racist, so I think I'm gonna take a long hard think about myself\".\n\nWhat *do* you say? I'm afraid I don't know! This is where I think I need some help."}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1592192830,
+  "data" [{"post" "Gonna go see what this \"radical left uprising\" is all about ;)"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1591129079, "data" [{"post" "Moving back to Bellingham!"}], "title" "Bobby Towers updated their status."}
+ {"timestamp" 1590352314,
+  "attachments" [{"data" [{"text" "Bitches on Acid"} {"text" "Monty on the Run - Zen Remix"}]}],
+  "data" [{"post" "Here is a remix I made of my favorite song composed for the C64."} {"update_timestamp" 1590352314}]}
+ {"timestamp" 1589528849,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/TrocheeKeyboardDesign_TU6KPF5_AQ/96300322_10158337032934321_8317794434649423872_o_10158337032919321.jpg",
+       "creation_timestamp" 1589528573,
+       "media_metadata" {"photo_metadata" {"upload_ip" "107.77.205.38"}},
+       "title" "Trochee Keyboard Design",
+       "description" "3d model rendered in OpenSCAD"}}]}],
+  "title" "Bobby Towers added a new photo."}
+ {"timestamp" 1589528849,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri"
+       "photos_and_videos/TrocheeKeyboardDesign_TU6KPF5_AQ/98345803_10158337031939321_6755998314115629056_n_10158337031934321.jpg",
+       "creation_timestamp" 1589528537,
+       "media_metadata" {"photo_metadata" {"upload_ip" "107.77.205.38"}},
+       "title" "Trochee Keyboard Design",
+       "description"
+       "Modified Right-hand Dvorak layout: 64 keys, only 8 columns wide to minimize lateral finger movement."}}]}],
+  "title" "Bobby Towers added a new photo."}
+ {"timestamp" 1589330976,
+  "attachments" [{"data" [{"external_context" {"url" "https://www.maltron.com/"}}]}],
+  "data"
+  [{"post"
+    "Here's a bit more info, as promised, about the project I've begun for which I'm looking for help, both in finding a place from which to operate as well as potential opportunities for collaboration.\n\nI've been recently given the opportunity to build a system that will suit my needs as a one-handed programmer. Currently, the only decent keyboards built with a focus on accessibility are made by Maltron: [https://www.maltron.com/](https://www.maltron.com/?fbclid=IwAR0tg5oc7SSrJjUo8-i-23pHluRzQQjsAXCZCUjak_08o7XWQVmG3jnXqJg)\n\nUnfortunately, their prices do not make them very \"accessible\" at all. Additionally, this product space seems to be suffering from other effects of lack of competition, leaving many customer complaints unaddressed.\n\nThe open-source Dactyl keyboard ([https://github.com/adereth/dactyl-keyboard](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fadereth%2Fdactyl-keyboard%3Ffbclid%3DIwAR0d0SilTBy6zcq2ZC-t8xbnVR_MKaFUpUud8oi28-vqHUCb3mwEfRF_VyM&h=AT0L4aiUWHds36ZPpOs-gb2IPXu1qYexaimOcwygLLgzG5eOU62A3uy20jAiG_pePi1GUmFUgF4JigC8DK2meKNZt8Wsr7co9aI12Q0_IilWoot4wR9NXoYj6m6wDrN6rqBK0eBDD_Ahkif12vo0JoqHNxR2TcyFjmE)) just happens to have been created using the same technologies with which I have become familiar, making it extremely easy for me to produce custom 3D-printed designs. I plan on offering a complete line of custom computer systems for people with various special needs, who might not have the resources available for the limited commercial solutions.\n\nI mentioned that I'm looking for a place to set up a \"small workshop\". What I really mean is \"a desk\". Just enough room for a computer, 3D-printer and a soldering station."}],
+  "title" "Bobby Towers posted in Sushi Tribe Forum."}
+ {"timestamp" 1589324923,
+  "attachments" [{"data" [{"external_context" {"url" "https://www.maltron.com/"}}]}],
+  "data"
+  [{"post"
+    "Here's a bit more info, as promised, about the project I've begun for which I'm looking for help, both in finding a place from which to operate as well as potential opportunities for collaboration.\n\nI've been recently given the opportunity to build a system that will suit my needs as a one-handed programmer. Currently, the only decent keyboards built with a focus on accessibility are made by Maltron: https://www.maltron.com/\n\nUnfortunately, their prices do not make them very \"accessible\" at all. Additionally, this product space seems to be suffering from other effects of lack of competition, leaving many customer complaints unaddressed.\n\nThe open-source Dactyl keyboard (https://github.com/adereth/dactyl-keyboard) just happens to have been created using the same technologies with which I have become familiar, making it extremely easy for me to produce custom 3D-printed designs. I plan on offering a complete line of custom computer systems for people with various special needs, who might not have the resources available for the limited commercial solutions.\n\nI mentioned that I'm looking for a place to set up a \"small workshop\". What I really mean is \"a desk\". Just enough room for a computer, 3D-printer and a soldering station."}
+   {"update_timestamp" 1589324923}]}
+ {"timestamp" 1589241666,
+  "data"
+  [{"post"
+    "It's an awkward time to be looking for a place, but here I am. Have cash for a room and have been extremely well quarantined. I'm very low-drama and self-sufficient but enjoy community living. Not picky about location either. Any leads much appreciated!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1588966648,
+  "data"
+  [{"post"
+    "It seems like nobody fully knows what is going on, and we are all put into a situation like Descartes where we need to go through a process of throwing all knowledge out the window and reconsidering what we consider \"facts\".\n\nWhen I think of \"facts\", I think of the protagonist in the movie \"Memento\". He suffers from anterograde amnesia as the result of an accident, and from that point on is unable to form new memories. His intermittent blackouts cause him to invent tactics to constantly re-teach himself everything he knows for sure, as he attempts to unravel the case of who murdered his wife.\n\nThese tactics include keeping a room with \"Facts\" plastered all over the wall, taking polaroid snapshots of everyone he meets, and if some piece of critical information is revealed. he must immediately have \"facts\" tattooed onto his body before he inevitably forgets it.\n\nIn a strange way we are all suffering from this condition. What are your \"facts\"?"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1588887969,
+  "data"
+  [{"post"
+    "I've been working on starting a small business which has ironically been made possible because of the pandemic relief fund. So now I'm putting a call out for other interested parties.\n\nI'll be sharing the details soon in a separate post. But it is focused on providing tools and education to people with less fortunate sets of abilities and/or resources available.\n\nThis will involve both hardware and software elements, which means setting up a small workshop in a space which will be determined. I will be recruiting people with a large variety of skill-sets, for designing and building the systems themselves, the software they will run, and providing specialized learning material in as many subjects as possible.\n\nThis is still in a very early stage of development, making it the perfect time to get involved. There will be lots of ways to help and I believe this venture has the potential to be extremely beneficial to the community. Please let me know if you'd like more info!"}],
+  "title" "Bobby Towers posted in Sushi Tribe Forum."}
+ {"timestamp" 1588882911,
+  "attachments" [],
+  "data"
+  [{"post"
+    "I'm not an expert in the US Constitution, but I do understand that the Freedom of Speech has very clear limits, specifically when intentionally spreading misinformation that could cause people harm.\n\nIt's as if the theater is on fire, and the cacophonous roar of \"alternative\" theories is resulting in a clusterfuck, and no one can find the door."}
+   {"update_timestamp" 1588882911}]}
+ {"timestamp" 1588877440,
+  "data"
+  [{"post"
+    "I've been working on starting a small business which has ironically been made possible because of the pandemic relief fund. So now I'm putting a call out for other interested parties.\n\nI'll be sharing the details soon in a separate post. But it is focused on providing tools and education to people with less fortunate sets of abilities and/or resources available.\n\nThis will involve both hardware and software elements, which means setting up a small workshop in a space which will be determined. I will be recruiting people with a large variety of skill-sets, for designing and building the systems themselves, the software they will run, and providing specialized learning material in as many subjects as possible.\n\nThis is still in a very early stage of development, making it the perfect time to get involved. There will be lots of ways to help and I believe this venture has the potential to be extremely beneficial to the community. Please let me know if you'd like more info!"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1588810491,
+  "data" [{"post" "Looking to rent a place in the Seattle/Bellingham area. Leads greatly appreciated :)"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1587582826,
+  "data" [{"post" "What's your favorite thing that is being given away for free right now?"}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1587507916,
+  "tags" ["CiÃ¶cc Nickerson" "Todd Gilbo" "Alex Leikam"],
+  "data"
+  [{"post"
+    "One time I took some LSD and decided to listen to a bunch of Phil Spector recordings.\n\nPhil Spector was a famous music producer who introduced all sorts of wild recording techniques, including the novel idea of the \"studio as an instrument\". He said that the job of a producer is to assist in the creation of something so unique, that no one could ever possibly recreate it.\n\nThen for some reason, at the end of the playlist, on came \"Born in the USA\". Some people in the room overheard, and we all shared a moment of wonder, laughing quite a bit at how repetitive the lyrics were. What was he even talking about? Why is he so proud to be born in the USA, and why the need to scream it so passionately like 87 times?\n\nPerhaps you had to be there. The song turned into kind of a running joke in my home, which led me to sit down to learn it. Still, I had found it more entertaining to preserve the lyrical ambiguity of the song (as well as our running joke) through willful ignorance than to bother trying to read and analyze it.\n\nNow that the lockdown protesters have brought the song into the news with a much more embarrassing failure of interpretation, my curiosity can at last be put to rest.\n\nGod bless this great nation."}],
+  "title" "Bobby Towers was with CiÃ¶cc Nickerson and 2 others."}
+ {"timestamp" 1587420991,
+  "attachments" [],
+  "data"
+  [{"post"
+    "Very well said. I do believe this to be a valid cause of the tendency to latch on to such irrational explanations. I imagine others could exist as well. A friend of mine once disagreed, and said that it is actually a form of abuse. I've spent some time trying to really understand what he meant.\n\nA completely natural response to a situation of mass uncertainty could be to deliberately (even unconsciously) cause confusion as a way of gaining/maintaining power.\n\nThis already starts to sound curiously like the very thing the conspiracy theorists are claiming.\n\nExcept conspiracy theorists actually exist."}
+   {"update_timestamp" 1587420991}]}
+ {"timestamp" 1586806157,
+  "data"
+  [{"post"
+    "Dear Facebook,\n\nPlease stop encouraging people to get critical health information from social media.\n\nThis is a place for gossip and pictures of cats."}],
+  "title" "Bobby Towers updated their status."}
+ {"timestamp" 1585855940,
+  "attachments"
+  [{"data"
+    [{"external_context"
+      {"url"
+       "https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0"}}]}],
+  "data"
+  [{"post"
+    "It seems logical, captain.\n\nTL;DR: People are pooping at home now.\nAnd consumer toilet paper is actually an entirely different product."}
+   {"update_timestamp" 1585855940}]}
+ {"timestamp" 1585273452,
+  "attachments"
+  [{"data"
+    [{"external_context"
+      {"url"
+       "https://www.technologynetworks.com/neuroscience/news/jumping-genes-help-make-neurons-in-a-lab-dish-332644"}}]}],
+  "data" [{"post" "Mexican Jumping Genes"} {"update_timestamp" 1585273452}]}
+ {"timestamp" 1585269732,
+  "attachments" [{"data" [{"external_context" {"url" "https://liberapay.com/porkostomus/"}}]}],
+  "data"
+  [{"post"
+    "I've been told that Patreon doesn't work so well internationally. So now I also have a Liberapay: https://liberapay.com/porkostomus/\n\nThis is how I'm spending all my time these days. I'm currently maintaining the Exercism Clojure track and helping out as well with Racket, Emacs Lisp, Bash, Python, and starting today - I am beginning to launch my very own language track: Babashka!\n\nBabashka is a language similar to Clojure, but runs inside Bash. This enables a new level of expressiveness and data processing for many system tasks.\n\nYour support is much appreciated as this is 100% volunteer work, and it is my hope that this material will help people build new careers in this time of unprecedented uncertainty."}
+   {"update_timestamp" 1585271992}]}
+ {"timestamp" 1584843344,
+  "attachments" [],
+  "data"
+  [{"post"
+    "Terry (and Rosie) helped me tremendously when I was in Austin and on the street. I can't imagine what that must be like right now. Let's all do what we can to help those in need."}
+   {"update_timestamp" 1584843344}]}
+ {"timestamp" 1584839518,
+  "attachments"
+  [{"data"
+    [{"external_context"
+      {"url"
+       "https://www.patreon.com/posts/new-language-35129800?utm_medium=social&utm_source=facebook&utm_campaign=postshare"}}]}],
+  "data" [{"post" "76 exercises prepared so far!"} {"update_timestamp" 1584839518}]}
+ {"timestamp" 1584605980,
+  "attachments" [{"data" [{"external_context" {"url" "https://www.linkedin.com/in/porkostomus/"}}]}],
+  "data"
+  [{"post"
+    "Thankful to have fallen into a stable place for this time, and it's now more urgent than ever that I find some paying work. I've put together a pretty nice resume and web development portfolio. If you have a moment, it would be a huge help if you could endorse my skills on LinkedIn: https://www.linkedin.com/in/porkostomus/"}
+   {"update_timestamp" 1584605980}]}
+ {"timestamp" 1584467781,
+  "attachments"
+  [{"data"
+    [{"media"
+      {"uri" "photos_and_videos/videos/89716404_188360775944845_2112565649782865920_n_10158115959414321.mp4",
+       "creation_timestamp" 1584467800,
+       "media_metadata" {"video_metadata" {"upload_timestamp" 0, "upload_ip" "107.77.205.72"}},
+       "thumbnail"
+       {"uri"
+        "https://interncache-prn.fbcdn.net/v/t15.5256-10/80070619_10158115970164321_6075724070509346816_n.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-prn&oh=180b9cd23d4f2013e2316660b25a2c15&oe=5F96D19D"},
+       "title" "",
+       "description"
+       "\"Life is like a quarantine...\"\n\nDuck Tales Theme - @[251540665307856:274:MECCA Music Platform]"}}]}],
+  "data" [{"post" "\"Life is like a quarantine...\"\n\nDuck Tales Theme - MECCA Music Platform"}]}
+ {"timestamp" 1584403007,
+  "attachments"
+  [{"data"
+    [{"external_context"
+      {"url"
+       "https://www.patreon.com/posts/new-courses-in-34952800?utm_medium=social&utm_source=facebook&utm_campaign=postshare"}}]}],
+  "data"
+  [{"post"
+    "Big shoutout to @[1437411711:2048:John Stiles] for being my main Patreon supporter for the past 2 years! I have just now become aware of your ongoing donations!\n\nI am now expanding my platform in light of our current situation, which I see as a sign of a big shift in how we will be building our future as a civilization. It will be increasingly important moving forward to develop skills involving technological literacy, enabling a lifestyle that will support more independence from our physical location.\n\nThis is now my full-time job, and is only made possible with your help. Thank you to all my current and future supporters, I can't wait to see what we can create together!"}
+   {"update_timestamp" 1584403007}]}
+ {"timestamp" 1583681811,
+  "attachments"
+  [{"data" [{"external_context" {"url" "https://twitter.com/aliciavperry/status/1236398664102313985"}}]}],
+  "data"
+  [{"post"
+    "Let's see does Wastebook expand Shitter links or am I gonna have to find this video\n\nhttps://twitter.com/aliciavperry/status/1236398664102313985"}
+   {"update_timestamp" 1583681925}]}
+ ...)
+clj꞉porkostomus.fb꞉> 
+{"timestamp" 1601006818,
+ "attachments"
+ [{"data"
+   [{"media"
+     {"uri"
+      "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120094271_10158726534304321_5872319038484817638_n_10158726534299321.jpg",
+      "creation_timestamp" 1601006792,
+      "media_metadata"
+      {"photo_metadata"
+       {"camera_model" "EasyCamera: EasyCamera",
+        "taken_timestamp" 1601006520,
+        "modified_timestamp" 1601006520,
+        "orientation" 1,
+        "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+      "title" "Timeline Photos",
+      "description"
+      "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}}
+    {"media"
+     {"uri"
+      "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120193263_10158726971324321_4411199438683626634_n_10158726971319321.jpg",
+      "creation_timestamp" 1601030331,
+      "media_metadata"
+      {"photo_metadata"
+       {"camera_model" "EasyCamera: EasyCamera",
+        "taken_timestamp" 1601030115,
+        "modified_timestamp" 1601030115,
+        "orientation" 1,
+        "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+      "title" "Timeline Photos"}}]}],
+ "data"
+ [{"post"
+   "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}]}
+clj꞉porkostomus.fb꞉> 
+2701
+clj꞉porkostomus.fb꞉> 
+clojure.lang.LazySeq
+clj꞉porkostomus.fb꞉> 
+{"timestamp" 1601006818,
+ "attachments"
+ [{"data"
+   [{"media"
+     {"uri"
+      "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120094271_10158726534304321_5872319038484817638_n_10158726534299321.jpg",
+      "creation_timestamp" 1601006792,
+      "media_metadata"
+      {"photo_metadata"
+       {"camera_model" "EasyCamera: EasyCamera",
+        "taken_timestamp" 1601006520,
+        "modified_timestamp" 1601006520,
+        "orientation" 1,
+        "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+      "title" "Timeline Photos",
+      "description"
+      "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}}
+    {"media"
+     {"uri"
+      "photos_and_videos/TimelinePhotos_abuzpnE9TQ/120193263_10158726971324321_4411199438683626634_n_10158726971319321.jpg",
+      "creation_timestamp" 1601030331,
+      "media_metadata"
+      {"photo_metadata"
+       {"camera_model" "EasyCamera: EasyCamera",
+        "taken_timestamp" 1601030115,
+        "modified_timestamp" 1601030115,
+        "orientation" 1,
+        "upload_ip" "2601:602:900:8510:595f:1c7:25b9:ffe7"}},
+      "title" "Timeline Photos"}}]}],
+ "data"
+ [{"post"
+   "Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"}]}
+clj꞉porkostomus.fb꞉> 
+{"timestamp" 1195414047,
+ "data"
+ [{"post"
+   "All right, how's this?\n\nJust had to change my hat.  I was originally signed up with Aish HaTorah, and then my Rabbi recommended this one...  Jewish Renewal is the movement I'm currently involved with, so I guess I'll fit right in!!  We're the ones whos shabbat services sound more like rock concerts and we can davven shachrit in 50 words or less!  Shrimp and Pork may only be eaten in chinese restaurants, and our high holidays... wait, I'd better not get myself in trouble already..."}],
+ "title" "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."}
+clj꞉porkostomus.fb꞉> 
+{:timestamp 1195414047,
+ :data
+ [{:post
+   "All right, how's this?\n\nJust had to change my hat.  I was originally signed up with Aish HaTorah, and then my Rabbi recommended this one...  Jewish Renewal is the movement I'm currently involved with, so I guess I'll fit right in!!  We're the ones whos shabbat services sound more like rock concerts and we can davven shachrit in 50 words or less!  Shrimp and Pork may only be eaten in chinese restaurants, and our high holidays... wait, I'd better not get myself in trouble already..."}],
+ :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."}
+clj꞉porkostomus.fb꞉> 
+{:timestamp 1195605098,
+ :data
+ [{:post
+   "My main game plan is to spend a few weeks just backpacking around,and  then to settle down and study for what could become any number of weeks or months(on even years, I suppose).  I currently have very few leads but I am confident that they will appear when they need to.  And that's pretty much it.   I seem to be at the biggest turning point of my life and am completely overwhelmed with excitement.  I can't believe I'm actually doing this..."}],
+ :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."}
+clj꞉porkostomus.fb꞉> 
+{:timestamp 1230570285,
+ :attachments [{:data [{:external_context {:url "http://www.myspace.com/raphaelyaakov"}}]}],
+ :data
+ [{:post "Hey, I finally came up with an mp3 for \"Pitum HaKetoret\" (Follow link to play) !!!"}
+  {:update_timestamp 1230570285}]}
+clj꞉porkostomus.fb꞉> 
