@@ -491,3 +491,31 @@ clj꞉porkostomus.fb꞉> 
  [{:post "Hey, I finally came up with an mp3 for \"Pitum HaKetoret\" (Follow link to play) !!!"}
   {:update_timestamp 1230570285}]}
 clj꞉porkostomus.fb꞉> 
+({:timestamp 1195605098,
+  :data
+  [{:post
+    "My main game plan is to spend a few weeks just backpacking around,and  then to settle down and study for what could become any number of weeks or months(on even years, I suppose).  I currently have very few leads but I am confident that they will appear when they need to.  And that's pretty much it.   I seem to be at the biggest turning point of my life and am completely overwhelmed with excitement.  I can't believe I'm actually doing this..."}],
+  :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."}
+ {:timestamp 1195414047,
+  :data
+  [{:post
+    "All right, how's this?\n\nJust had to change my hat.  I was originally signed up with Aish HaTorah, and then my Rabbi recommended this one...  Jewish Renewal is the movement I'm currently involved with, so I guess I'll fit right in!!  We're the ones whos shabbat services sound more like rock concerts and we can davven shachrit in 50 words or less!  Shrimp and Pork may only be eaten in chinese restaurants, and our high holidays... wait, I'd better not get myself in trouble already..."}],
+  :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."}
+ {:timestamp 1195244348,
+  :data
+  [{:post
+    "I grew up near Ithaca, NY.....then I moved to the west coast 2 years ago to start over.  And now....I'm actually going on this trip as another spy, to see if the grapes and pomegranates are really as huge as our ancestors say.  I will most likely be traveling with you all one way, and when our tour is all over, that's when I'll start my real adventure in the land.  No way, if I'm flying all the way to Israel, am I coming back here after a week and a half...\nCheck out some of my original jewish music here: http://www.myspace.com/raphaelyaakov\nSee you all soon!"}],
+  :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."})
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/posts
+clj꞉porkostomus.fb꞉> 
+false
+clj꞉porkostomus.fb꞉> 
+true
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1195414047,
+  :data
+  [{:post
+    "All right, how's this?\n\nJust had to change my hat.  I was originally signed up with Aish HaTorah, and then my Rabbi recommended this one...  Jewish Renewal is the movement I'm currently involved with, so I guess I'll fit right in!!  We're the ones whos shabbat services sound more like rock concerts and we can davven shachrit in 50 words or less!  Shrimp and Pork may only be eaten in chinese restaurants, and our high holidays... wait, I'd better not get myself in trouble already..."}],
+  :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."})
+clj꞉porkostomus.fb꞉> 

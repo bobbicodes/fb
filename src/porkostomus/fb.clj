@@ -2,6 +2,11 @@
   (:require
    [cheshire.core :as json]))
 
-(def posts (slurp "resources/posts.json"))
+(defn posts
+  "Retrieves all posts between 2 timestamps."
+  [from to]
+  (filter #(< from (:timestamp %) to) (json/parse-string (slurp "resources/posts.json") true)))
 
-(nth (reverse (json/parse-string posts true)) 3)
+(comment
+  (posts 1195244348 1195605098)
+  )
