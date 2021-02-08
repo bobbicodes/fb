@@ -713,3 +713,1368 @@ clj꞉porkostomus.fb꞉> 
     "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
    {:update_timestamp 1349122176}]})
 clj꞉porkostomus.fb꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+false
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1351656850,
+  :data
+  [{:post
+    "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351643997,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0v06WQ2R9bs&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351643997}]}
+ {:timestamp 1351643301,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4",
+       :creation_timestamp 1351643301,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4"},
+       :description ""}}]}],
+  :data []}
+ {:timestamp 1351640412,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/768076_10151484231394321_3864022325_n_10151221080674321.mp4",
+       :creation_timestamp 1351640412,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail
+       {:uri
+        "https://interncache-prn.fbcdn.net/v/t15.0-10/245617_10151221084324321_10151221080674321_20978_1829_b.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-prn&oh=43944243f845bd0161e56b9956b8af67&oe=5F94B7E6"},
+       :description "Just testing out the camera on my new Nexus!"}}]}],
+  :data [{:post "Just testing out the camera on my new Nexus!"}]}
+ {:timestamp 1351638000,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Q-LEmO4SYYE&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351638000}]}
+ {:timestamp 1351566045,
+  :data
+  [{:post
+    "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351564707,
+  :data
+  [{:post
+    "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351481767,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/131317_10151218024349321_763979304_o_10151218024349321.jpg",
+       :creation_timestamp 1351481765,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Added some blue-raspberry creme to the front."}}]}]}
+ {:timestamp 1351375380,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/134036_10151215472199321_782939440_o_10151215472199321.jpg",
+       :creation_timestamp 1351375379,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description "Now weâre cookinâ."}}]}]}
+ {:timestamp 1351319986,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0_3C99nxjPU"}}]}],
+  :data
+  [{:post
+    "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+   {:update_timestamp 1351319986}]}
+ {:timestamp 1351316458,
+  :data
+  [{:post
+    "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351313689,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/178199_10151214131714321_1047534247_o_10151214131714321.jpg",
+       :creation_timestamp 1351313687,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description
+       "How to hang a uke on a wall w/o drilling any holes: 2 stick-on hooks, a dishcloth and some halloween duct-tape."}}]}]}
+ {:timestamp 1351311404,
+  :attachments
+  [{:data
+    [{:external_context {:url "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/"}}]}],
+  :data
+  [{:post
+    "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+   {:update_timestamp 1351311404}]}
+ {:timestamp 1351118929,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+   {:update_timestamp 1351118929}]}
+ {:timestamp 1351115579,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/w7jb/"}}]}],
+  :data [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]}
+ {:timestamp 1351107006,
+  :data
+  [{:post
+    "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351101348,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8C8z1wUn9A4"}}]}],
+  :data [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]}
+ {:timestamp 1351099572,
+  :attachments
+  [{:data [{:external_context {:url "http://www.youtube.com/playlist?list=PL-pLOSLmb-mHMpKESKB5lmIiY4J_ijAzo"}}]}],
+  :data [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]}
+ {:timestamp 1350778121,
+  :data
+  [{:post
+    "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1350759268,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+   {:update_timestamp 1350759268}]}
+ {:timestamp 1350758758,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+   {:update_timestamp 1350758758}]}
+ {:timestamp 1350756751,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post
+    "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+   {:update_timestamp 1350756751}]}
+ {:timestamp 1350678143,
+  :attachments [{:data [{:external_context {:url "http://kiwi6.com/file/m6rg6b41ie"}}]}],
+  :data
+  [{:post
+    "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+   {:update_timestamp 1350678143}]}
+ {:timestamp 1350530704,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=qrrzn0E1q2U"}}]}],
+  :data
+  [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+   {:update_timestamp 1350530704}]}
+ {:timestamp 1350506572,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/68040_10151199462734321_2070957158_n_10151199462734321.jpg",
+       :creation_timestamp 1350506570,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Me in piano class... drawn by my dad."}}]}]}
+ {:timestamp 1350161083,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+   {:update_timestamp 1350161083}]}
+ {:timestamp 1350025851,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Y0Z0raWIHXk"}}]}],
+  :data
+  [{:post
+    "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+   {:update_timestamp 1350025851}]}
+ {:timestamp 1349905669,
+  :data [{:post "made my day when i heard the WTC while walking by. you rock!"}],
+  :title "Bobby Towers wrote on The Aly Way's timeline."}
+ {:timestamp 1349783733, :attachments [], :data [{:update_timestamp 1349783733}]}
+ {:timestamp 1349747437,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+   {:update_timestamp 1349747437}]}
+ {:timestamp 1349736195,
+  :attachments [{:data [{:external_context {:url "http://collegerecordingjunkie.blogspot.com/"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+   {:update_timestamp 1349736195}]}
+ {:timestamp 1349624403,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=ZKGR-b13_co"}}]}],
+  :data
+  [{:post
+    "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+   {:update_timestamp 1349624403}]}
+ {:timestamp 1349558673,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=SV1OCWiW8hI"}}]}],
+  :data
+  [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+   {:update_timestamp 1349558673}]}
+ {:timestamp 1349501937,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/wHK2/"}}]}],
+  :data [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]}
+ {:timestamp 1349464684,
+  :data [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349460734,
+  :data
+  [{:post
+    "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349414100,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8z7h7vhAbOQ"}}]}],
+  :data [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}],
+  :title "Bobby Towers posted in Jews who like Turbans."}
+ {:timestamp 1349298862,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=6cX-WKmoMXU"}}]}],
+  :data
+  [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+   {:update_timestamp 1349298862}]}
+ {:timestamp 1349122176,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=jklHHB4o6xA"}}]}],
+  :data
+  [{:post
+    "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+   {:update_timestamp 1349122176}]})
+clj꞉porkostomus.fb꞉> 
+{:timestamp 1351656850,
+ :data
+ [{:post
+   "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}],
+ :title "Bobby Towers updated their status."}
+clj꞉porkostomus.fb꞉> 
+false
+clj꞉porkostomus.fb꞉> 
+[{:post
+  "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+clj꞉porkostomus.fb꞉> 
+{:post
+ "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}
+clj꞉porkostomus.fb꞉> 
+"I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."
+clj꞉porkostomus.fb꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+true
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1195414047,
+  :data
+  [{:post
+    "All right, how's this?\n\nJust had to change my hat.  I was originally signed up with Aish HaTorah, and then my Rabbi recommended this one...  Jewish Renewal is the movement I'm currently involved with, so I guess I'll fit right in!!  We're the ones whos shabbat services sound more like rock concerts and we can davven shachrit in 50 words or less!  Shrimp and Pork may only be eaten in chinese restaurants, and our high holidays... wait, I'd better not get myself in trouble already..."}],
+  :title "Bobby Towers posted in Israel Outdoors / Winter '07 - '08 / TL-283 Group."})
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1351656850,
+  :data
+  [{:post
+    "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351643997,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0v06WQ2R9bs&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351643997}]}
+ {:timestamp 1351643301,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4",
+       :creation_timestamp 1351643301,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4"},
+       :description ""}}]}],
+  :data []}
+ {:timestamp 1351640412,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/768076_10151484231394321_3864022325_n_10151221080674321.mp4",
+       :creation_timestamp 1351640412,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail
+       {:uri
+        "https://interncache-prn.fbcdn.net/v/t15.0-10/245617_10151221084324321_10151221080674321_20978_1829_b.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-prn&oh=43944243f845bd0161e56b9956b8af67&oe=5F94B7E6"},
+       :description "Just testing out the camera on my new Nexus!"}}]}],
+  :data [{:post "Just testing out the camera on my new Nexus!"}]}
+ {:timestamp 1351638000,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Q-LEmO4SYYE&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351638000}]}
+ {:timestamp 1351566045,
+  :data
+  [{:post
+    "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351564707,
+  :data
+  [{:post
+    "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351481767,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/131317_10151218024349321_763979304_o_10151218024349321.jpg",
+       :creation_timestamp 1351481765,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Added some blue-raspberry creme to the front."}}]}]}
+ {:timestamp 1351375380,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/134036_10151215472199321_782939440_o_10151215472199321.jpg",
+       :creation_timestamp 1351375379,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description "Now weâre cookinâ."}}]}]}
+ {:timestamp 1351319986,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0_3C99nxjPU"}}]}],
+  :data
+  [{:post
+    "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+   {:update_timestamp 1351319986}]}
+ {:timestamp 1351316458,
+  :data
+  [{:post
+    "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351313689,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/178199_10151214131714321_1047534247_o_10151214131714321.jpg",
+       :creation_timestamp 1351313687,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description
+       "How to hang a uke on a wall w/o drilling any holes: 2 stick-on hooks, a dishcloth and some halloween duct-tape."}}]}]}
+ {:timestamp 1351311404,
+  :attachments
+  [{:data
+    [{:external_context {:url "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/"}}]}],
+  :data
+  [{:post
+    "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+   {:update_timestamp 1351311404}]}
+ {:timestamp 1351118929,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+   {:update_timestamp 1351118929}]}
+ {:timestamp 1351115579,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/w7jb/"}}]}],
+  :data [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]}
+ {:timestamp 1351107006,
+  :data
+  [{:post
+    "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351101348,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8C8z1wUn9A4"}}]}],
+  :data [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]}
+ {:timestamp 1351099572,
+  :attachments
+  [{:data [{:external_context {:url "http://www.youtube.com/playlist?list=PL-pLOSLmb-mHMpKESKB5lmIiY4J_ijAzo"}}]}],
+  :data [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]}
+ {:timestamp 1350778121,
+  :data
+  [{:post
+    "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1350759268,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+   {:update_timestamp 1350759268}]}
+ {:timestamp 1350758758,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+   {:update_timestamp 1350758758}]}
+ {:timestamp 1350756751,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post
+    "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+   {:update_timestamp 1350756751}]}
+ {:timestamp 1350678143,
+  :attachments [{:data [{:external_context {:url "http://kiwi6.com/file/m6rg6b41ie"}}]}],
+  :data
+  [{:post
+    "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+   {:update_timestamp 1350678143}]}
+ {:timestamp 1350530704,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=qrrzn0E1q2U"}}]}],
+  :data
+  [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+   {:update_timestamp 1350530704}]}
+ {:timestamp 1350506572,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/68040_10151199462734321_2070957158_n_10151199462734321.jpg",
+       :creation_timestamp 1350506570,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Me in piano class... drawn by my dad."}}]}]}
+ {:timestamp 1350161083,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+   {:update_timestamp 1350161083}]}
+ {:timestamp 1350025851,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Y0Z0raWIHXk"}}]}],
+  :data
+  [{:post
+    "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+   {:update_timestamp 1350025851}]}
+ {:timestamp 1349905669,
+  :data [{:post "made my day when i heard the WTC while walking by. you rock!"}],
+  :title "Bobby Towers wrote on The Aly Way's timeline."}
+ {:timestamp 1349783733, :attachments [], :data [{:update_timestamp 1349783733}]}
+ {:timestamp 1349747437,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+   {:update_timestamp 1349747437}]}
+ {:timestamp 1349736195,
+  :attachments [{:data [{:external_context {:url "http://collegerecordingjunkie.blogspot.com/"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+   {:update_timestamp 1349736195}]}
+ {:timestamp 1349624403,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=ZKGR-b13_co"}}]}],
+  :data
+  [{:post
+    "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+   {:update_timestamp 1349624403}]}
+ {:timestamp 1349558673,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=SV1OCWiW8hI"}}]}],
+  :data
+  [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+   {:update_timestamp 1349558673}]}
+ {:timestamp 1349501937,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/wHK2/"}}]}],
+  :data [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]}
+ {:timestamp 1349464684,
+  :data [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349460734,
+  :data
+  [{:post
+    "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349414100,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8z7h7vhAbOQ"}}]}],
+  :data [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}],
+  :title "Bobby Towers posted in Jews who like Turbans."}
+ {:timestamp 1349298862,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=6cX-WKmoMXU"}}]}],
+  :data
+  [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+   {:update_timestamp 1349298862}]}
+ {:timestamp 1349122176,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=jklHHB4o6xA"}}]}],
+  :data
+  [{:post
+    "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+   {:update_timestamp 1349122176}]})
+clj꞉porkostomus.fb꞉> 
+39
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (ClassCastException) at null (REPL:1).
+; null
+clj꞉porkostomus.fb꞉> 
+((:timestamp :data :title)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :data :title)
+ (:timestamp :attachments)
+ (:timestamp :attachments)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :attachments)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data)
+ (:timestamp :data :title)
+ (:timestamp :data :title)
+ (:timestamp :attachments :data :title)
+ (:timestamp :attachments :data)
+ (:timestamp :attachments :data))
+clj꞉porkostomus.fb꞉> 
+([{:post
+   "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+ [{:update_timestamp 1351643997}]
+ []
+ [{:post "Just testing out the camera on my new Nexus!"}]
+ [{:update_timestamp 1351638000}]
+ [{:post
+   "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}]
+ [{:post
+   "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}]
+ nil
+ nil
+ [{:post
+   "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+  {:update_timestamp 1351319986}]
+ [{:post
+   "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}]
+ nil
+ [{:post
+   "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+  {:update_timestamp 1351311404}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+  {:update_timestamp 1351118929}]
+ [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]
+ [{:post
+   "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}]
+ [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]
+ [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]
+ [{:post
+   "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}]
+ [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+  {:update_timestamp 1350759268}]
+ [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+  {:update_timestamp 1350758758}]
+ [{:post
+   "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+  {:update_timestamp 1350756751}]
+ [{:post
+   "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+  {:update_timestamp 1350678143}]
+ [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+  {:update_timestamp 1350530704}]
+ nil
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+  {:update_timestamp 1350161083}]
+ [{:post
+   "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+  {:update_timestamp 1350025851}]
+ [{:post "made my day when i heard the WTC while walking by. you rock!"}]
+ [{:update_timestamp 1349783733}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+  {:update_timestamp 1349747437}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+  {:update_timestamp 1349736195}]
+ [{:post
+   "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+  {:update_timestamp 1349624403}]
+ [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+  {:update_timestamp 1349558673}]
+ [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]
+ [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}]
+ [{:post
+   "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}]
+ [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}]
+ [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+  {:update_timestamp 1349298862}]
+ [{:post
+   "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+  {:update_timestamp 1349122176}])
+clj꞉porkostomus.fb꞉> 
+39
+clj꞉porkostomus.fb꞉> 
+(nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil
+ nil)
+clj꞉porkostomus.fb꞉> 
+({:post
+  "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}
+ {:update_timestamp 1351643997}
+ nil
+ {:post "Just testing out the camera on my new Nexus!"}
+ {:update_timestamp 1351638000}
+ {:post
+  "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}
+ {:post
+  "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}
+ nil
+ nil
+ {:post
+  "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+ {:post
+  "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}
+ nil
+ {:post
+  "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+ {:post
+  "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+ {:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."}
+ {:post
+  "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}
+ {:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."}
+ {:post "I put together all my goofy ones... wow, it's 14 videos!"}
+ {:post
+  "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}
+ {:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+ {:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+ {:post
+  "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+ {:post
+  "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+ {:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+ nil
+ {:post
+  "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+ {:post
+  "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+ {:post "made my day when i heard the WTC while walking by. you rock!"}
+ {:update_timestamp 1349783733}
+ {:post
+  "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+ {:post
+  "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+ {:post
+  "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+ {:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+ {:post "http://picosong.com/wHK2/"}
+ {:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}
+ {:post
+  "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}
+ {:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}
+ {:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+ {:post
+  "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"})
+clj꞉porkostomus.fb꞉> 
+([{:post
+   "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+ [{:update_timestamp 1351643997}]
+ []
+ [{:post "Just testing out the camera on my new Nexus!"}]
+ [{:update_timestamp 1351638000}]
+ [{:post
+   "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}]
+ [{:post
+   "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}]
+ nil
+ nil
+ [{:post
+   "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+  {:update_timestamp 1351319986}]
+ [{:post
+   "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}]
+ nil
+ [{:post
+   "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+  {:update_timestamp 1351311404}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+  {:update_timestamp 1351118929}]
+ [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]
+ [{:post
+   "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}]
+ [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]
+ [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]
+ [{:post
+   "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}]
+ [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+  {:update_timestamp 1350759268}]
+ [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+  {:update_timestamp 1350758758}]
+ [{:post
+   "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+  {:update_timestamp 1350756751}]
+ [{:post
+   "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+  {:update_timestamp 1350678143}]
+ [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+  {:update_timestamp 1350530704}]
+ nil
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+  {:update_timestamp 1350161083}]
+ [{:post
+   "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+  {:update_timestamp 1350025851}]
+ [{:post "made my day when i heard the WTC while walking by. you rock!"}]
+ [{:update_timestamp 1349783733}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+  {:update_timestamp 1349747437}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+  {:update_timestamp 1349736195}]
+ [{:post
+   "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+  {:update_timestamp 1349624403}]
+ [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+  {:update_timestamp 1349558673}]
+ [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]
+ [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}]
+ [{:post
+   "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}]
+ [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}]
+ [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+  {:update_timestamp 1349298862}]
+ [{:post
+   "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+  {:update_timestamp 1349122176}])
+clj꞉porkostomus.fb꞉> 
+[{:post
+  "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+clj꞉porkostomus.fb꞉> 
+[{:update_timestamp 1351643997}]
+clj꞉porkostomus.fb꞉> 
+([{:post
+   "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+ [{:update_timestamp 1351643997}]
+ []
+ [{:post "Just testing out the camera on my new Nexus!"}]
+ [{:update_timestamp 1351638000}]
+ [{:post
+   "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}]
+ [{:post
+   "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}]
+ nil
+ nil
+ [{:post
+   "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+  {:update_timestamp 1351319986}]
+ [{:post
+   "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}]
+ nil
+ [{:post
+   "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+  {:update_timestamp 1351311404}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+  {:update_timestamp 1351118929}]
+ [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]
+ [{:post
+   "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}]
+ [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]
+ [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]
+ [{:post
+   "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}]
+ [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+  {:update_timestamp 1350759268}]
+ [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+  {:update_timestamp 1350758758}]
+ [{:post
+   "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+  {:update_timestamp 1350756751}]
+ [{:post
+   "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+  {:update_timestamp 1350678143}]
+ [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+  {:update_timestamp 1350530704}]
+ nil
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+  {:update_timestamp 1350161083}]
+ [{:post
+   "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+  {:update_timestamp 1350025851}]
+ [{:post "made my day when i heard the WTC while walking by. you rock!"}]
+ [{:update_timestamp 1349783733}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+  {:update_timestamp 1349747437}]
+ [{:post
+   "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+  {:update_timestamp 1349736195}]
+ [{:post
+   "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+  {:update_timestamp 1349624403}]
+ [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+  {:update_timestamp 1349558673}]
+ [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]
+ [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}]
+ [{:post
+   "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}]
+ [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}]
+ [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+  {:update_timestamp 1349298862}]
+ [{:post
+   "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+  {:update_timestamp 1349122176}])
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (ClassCastException) at null (REPL:1).
+; null
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (ClassCastException) at null (REPL:1).
+; null
+clj꞉porkostomus.fb꞉> 
+[{:post
+  "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}]
+clj꞉porkostomus.fb꞉> 
+[{:update_timestamp 1351643997}]
+clj꞉porkostomus.fb꞉> 
+((:update_timestamp))
+clj꞉porkostomus.fb꞉> 
+((:post))
+clj꞉porkostomus.fb꞉> 
+()
+clj꞉porkostomus.fb꞉> 
+((:post))
+clj꞉porkostomus.fb꞉> 
+((:update_timestamp))
+clj꞉porkostomus.fb꞉> 
+((:post))
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (ClassCastException) at null (REPL:1).
+; null
+clj꞉porkostomus.fb꞉> 
+(((:post))
+ ((:update_timestamp))
+ ()
+ ((:post))
+ ((:update_timestamp))
+ ((:post))
+ ((:post))
+ ()
+ ()
+ ((:post) (:update_timestamp))
+ ((:post))
+ ()
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ()
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post))
+ ((:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp))
+ ((:post))
+ ((:post))
+ ((:post))
+ ((:post) (:update_timestamp))
+ ((:post) (:update_timestamp)))
+clj꞉porkostomus.fb꞉> 
+(("I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing.")
+ (nil)
+ ()
+ ("Just testing out the camera on my new Nexus!")
+ (nil)
+ ("Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not.")
+ ("Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with.")
+ ()
+ ()
+ ("Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"
+  nil)
+ ("Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class.")
+ ()
+ ("http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"
+  nil)
+ ("http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."
+  nil)
+ ("http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..." nil)
+ ("My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism.")
+ ("http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..." nil)
+ ("I put together all my goofy ones... wow, it's 14 videos!" nil)
+ ("Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness")
+ ("Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965" nil)
+ ("Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894" nil)
+ ("Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"
+  nil)
+ ("http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments." nil)
+ ("What a sweet, awesome comment! What's funny is I was just playing this song earlier today." nil)
+ ()
+ ("http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."
+  nil)
+ ("I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."
+  nil)
+ ("made my day when i heard the WTC while walking by. you rock!")
+ (nil)
+ ("http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."
+  nil)
+ ("http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."
+  nil)
+ ("Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."
+  nil)
+ ("I used to do cool stuff while studying, like scream and play it on the mandolin." nil)
+ ("http://picosong.com/wHK2/" nil)
+ ("Philosophy of Religion... blech... I should have taken Chemistry or something useful")
+ ("WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â")
+ ("http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head.")
+ ("Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!" nil)
+ ("Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"
+  nil))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+()
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (NullPointerException) at clojure.string/includes? (string.clj:376).
+; null
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (NullPointerException) at clojure.string/includes? (string.clj:376).
+; null
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+(()
+ ("79 billion possible melodies")
+ ()
+ ()
+ ()
+ ("Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper.")
+ ("\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher")
+ ("http://portland.craigslist.org/mlt/rid/3421066435.html" nil)
+ ()
+ ("I'll be looking for a ride south next week to spend Thanksgiving in Ashland!")
+ ("I've been thinking too much, and not drinking enough.")
+ ("Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!")
+ ()
+ ()
+ ("Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day.")
+ ("http://directorsblog.nih.gov/the-symphony-inside-your-brain/")
+ ("This is how I envision my life right now." nil)
+ ("Got straight A's on my midterms!")
+ ("http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+  nil)
+ ("\"VENGEANCE IS MINE!!!!\" " nil)
+ ("I'm way more excited about this episode than I am about the election itself." nil)
+ ("It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut.")
+ ()
+ ()
+ (nil)
+ (nil)
+ ("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time."))
+clj꞉porkostomus.fb꞉> 
+("79 billion possible melodies"
+ "Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper."
+ "\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher"
+ "http://portland.craigslist.org/mlt/rid/3421066435.html"
+ nil
+ "I'll be looking for a ride south next week to spend Thanksgiving in Ashland!"
+ "I've been thinking too much, and not drinking enough."
+ "Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!"
+ "Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day."
+ "http://directorsblog.nih.gov/the-symphony-inside-your-brain/"
+ "This is how I envision my life right now."
+ nil
+ "Got straight A's on my midterms!"
+ "http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+ nil
+ "\"VENGEANCE IS MINE!!!!\" "
+ nil
+ "I'm way more excited about this episode than I am about the election itself."
+ nil
+ "It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut."
+ nil
+ nil
+ "Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time.")
+clj꞉porkostomus.fb꞉> 
+; Error printing return value (NullPointerException) at clojure.string/includes? (string.clj:376).
+; null
+clj꞉porkostomus.fb꞉> 
+("79 billion possible melodies"
+ "Never had to do so much useless writing. Page after page of stupid math problems. Had to bandage my pinkie from losing too much skin on the paper."
+ "\"At first I was unsure how this was related to the assignment but as I read further I began to see parallels to the original question.\" - my english teacher, 13 years ago\n\n\"I donât know where this is going but I trust you.\" - my current writing teacher"
+ "http://portland.craigslist.org/mlt/rid/3421066435.html"
+ "I'll be looking for a ride south next week to spend Thanksgiving in Ashland!"
+ "I've been thinking too much, and not drinking enough."
+ "Today in philosophy class I sang a Yemenite song while drumming on the recycle bin!"
+ "Preparing for my philosophy presentation on Tuesday, which is worth 50% of my final grade, and one of my key sources on the web is shut down for Shabbos, to prevent people from offending God by using the computer on the wrong day."
+ "http://directorsblog.nih.gov/the-symphony-inside-your-brain/"
+ "This is how I envision my life right now."
+ "Got straight A's on my midterms!"
+ "http://www.politico.com/2012-election/results/ballot-measures/oregon/ An initiative to legalize marijuana in Oregon is currently being tallied. Looks like it's gonna be really close..."
+ "\"VENGEANCE IS MINE!!!!\" "
+ "I'm way more excited about this episode than I am about the election itself."
+ "It's student appreciation week... Come meet me tomorrow morning and have a free Voodoo Doughnut."
+ "Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time.")
+clj꞉porkostomus.fb꞉> 
+("Mid-terms are done, not all scores in yet but never mind that... it's enough of a miracle that I even got them done. But I still can't stop freaking out... I feel like I'm in a crazy video game where I'm being shot through hoses and shit, having to make all the right turns with lightning-fast reaction time.")
+clj꞉porkostomus.fb꞉> 
+("Walking through the music wing makes me feel like I'm at Hogwart's. Only instead of flying broomsticks, everyone carries around guitars."
+ "http://picosong.com/nQxp/ One of my guitar jams, trying to turn into a song"
+ "http://picosong.com/nVfC/ took out the synth parts and added lead/rhythm guitar."
+ "http://www.youtube.com/watch?v=DcZKkZO7CTI he had to re-tune his guitar twice during this performance. he could have avoided that by just pre-recording it."
+ "Nearly done w my 1st term of college, just 1 final 2 go & it's playing Auld Lang Syne on the piano & a written exam, piece of cake, easy A. What's more important than grades though is what I've learned:\n\n1. I really, REALLY suck at math. Complete waste of time, just bland logic w no substance.\n2. I'm AWESOME at philosophy, but it's also a waste of time.\n3. I'm a damn good writer. But I also learned that no good writer thinks they are, so I must not be.\n4. Music for me is second-nature. I ought to do it all the time.\n\nStudying classical guitar next term. Gonna go pick out my new instrument... expect to see pictures! (Oh, and vids 4 sure!) <3")
+clj꞉porkostomus.fb꞉> 
+("Made a standing desk out of an organ.\n\nAll I needed to do was take the music stand off and screw it on backwards so that it functions as a leaf for the keyboard to sit on.\n\nIt really helps clear the mind when I can spontaneously noodle around while programming without disrupting the workflow. Music actually solves problems!"
+ "I'm often asked why I'm not collecting disability, since I only have one working hand. My accident happened in 2015, and indeed if things had worked out differently, I wouldn't have to work another day in my life. Because of my failure to do this I've been a heavy burden on friends and family ever since. Some of them have literally begged me to pursue it, and my failure to has been chalked up to some combination of negligence and stubbornness. I certainly don't claim to *not* be those things. But the reason here is much different, and hopefully I can explain it a little to clear up some confusion. What follows is not my personal opinion, but the result of several doctor visits and medical examinations.\n\nA person's disability status is dependent upon their occupation. What would be a completely devastating event (eg. losing a hand) to one person, say, a carpenter, might be practically inconsequential to another, or at least not a significant hinderance to their productivity in their chosen profession. I happen to fall into this second category. Believe it or not... programming really does not require much typing at all. Mostly just thinking, and I do that just fine. This is why it is common to see people collecting checks for what seems like much less serious shortcomings than mine.\n\nIn 2016, I went back to school (again). But this time I decided to put my music degree on hold and study more academic subjects, eventually falling in love with psychology. But then, my funding suddenly went away and I ended up on the street, and was forced to leave Austin because the police would not leave me alone. It has been a great struggle ever since, but I've managed to teach myself computer science over the last 4 years and have gained some very employable skills.\n\nIt's simply a matter of persistence. I have 3 different potential employers I'm talking to right now. But much more importantly, I absolutely love what I do! I wouldn't trade this decision for anything."
+ "Covid Lockout Day #2\n\nSleep? We don't do much of that while in lockout. Not very safe, ironically because of the threat of police harassment. That's not what this post is about, but having spent many years on the street, reality has reminded me once again who the real thugs are.\n\nAnother thing that I've rediscovered about myself is that I come up with some of my best ideas when I walk around all night. And it could be that the rhythm of my footsteps activates my musical sense, because I'm turning my attention once again to the construction of my software synthesizer, the MECCA Platform. And this time it's all about math.\n\nWhat's the huge deal with me and math lately, anyway? Well, the truth is, I'm 39 years old and the first time I actually used math was 3 years ago, when I decided to start building my own music application from first principles.\n\nI used to laugh in people's faces who would suggest such a ridiculous idea, that *music* has anything to do with *math*. But now I know that they were right, and now I know why.\n\nThis is all fitting together quite well, because this application, \"MECCA\", the Music Education Composition Creation Application, is all about being a tool for music production that also *teaches* you about theory and sound design by exposing to the user sonic parameters that are directly modeled from the acoustic principles at play, which become the actual parameters used to modulate the soundwaves. In addition to this educational component, another factor at play is *my own* education, which is being forged by the grand journey of me building the thing! I'm teaching *myself* about the fundamentals of music by learning to code a synth myself. And the stuff I'm discovering has been rather mindblowing:\n\nMusic IS math. I wouldn't go so far as to say that's *all* it is, but a nearly infinite amount of computation is involved in its every aspect. Here they are, in the order of my own discovery:\n\n1. The pitches of the notes. The human faculty of audio perception is very interesting because it operates on a logarithmic scale, both in volume (dB) and pitch (Hz). In pitch, this is clearly demonstrated by the frets of a guitar, which get closer together as you go higher up the neck. This is because each note needs to be calculated as 2^1/12 the frequency of the one preceding it.\n\n2. Tempo (bpm). Effectively this comes down to the *length* of the notes. To calculate note length of a quarter-note from beats-per-minute you need to divide 60 seconds by the desired tempo. Fun fact: James Best, my high school jazz band director once asked, \"which note determines the tempo of the song?\" The correct answer: the second one. It's the 2nd beat that tells you how far they are apart, right? While that makes sense in a practical setting, as far as the notes are concerned the answer is *every note*! Every note needs to be exactly the correct length with respect to the song's tempo.\n\n3. The very soundwaves themselves! Any acoustic sound can be mathematically described by its Fourier constants - a set of Complex (Real/Imaginary) numbers that, when run through a FFT (Fast Fourier Transform), will result in the production of the waveform.\n\n4. Scales. Music notation is in fact a graph-fitting problem, as the notes are spaced at cycling intervals from each other. These scales must then be fit along the graph - representing the intervals on a 2-dimensional plane with time as the x-axis and pitch as the y-axis.\n\n5. Harmony. The overtone series comes into play here, which is an infinitely ascending cascade of notes that emanate from any acoustic tone.\n\n6. *All the computation performed by the human auditory system*. This includes the entire phenomenon of psychoacoustics, also related to the overtone series above. This is how our sense of hearing is adapted towards identifying the location and quality of the sound as it is situated in the sonic environment.\n\nMost of these connections were relatively unknown to me when I began this project just a few years ago. I knew that I wanted to create a synthesizer/sequencer with a more transparent and interactive set of parameters by which to control the sound. For example, it was to feature a \"kick-drum wizard\" that guides you through the construction of a kick drum, giving the experienced producer unprecedented control while unobtrusively revealing to the novice what sonic building blocks are composed to create a kick drum. But I just realized it goes much deeper still!\n\nIntroducing: MECCA-Math. The first digital audio workstation that is controlled completely algorithmically, exposing the very math that affects the character of the sound as the primary method of user input. We will be able to adjust the equations and receive sonic feedback in real time, bridging the intuitive gap between the human experience of music that we all know and love, and the algorithms that constitute them, all presented through a human-tractable interface tuned to provide the optimal balance of sonic flexibility while subtly encouraging the use of effective culturally prescribed idioms.\n\nI surely can't be the *only* one excited about this...\nMECCA Music Platform"
+ "I'm currently in northern California and looking for a place to live and work from, for a week or two or possibly longer if it happens to work out.\n\nMy goal is to live in a community where my skills can be put to use. I work part-time as a coding instructor but it's all online, I need more interaction. I enjoy teaching and am involved in many activities that I find incredibly fun, like playing music and making things, both physical and inside the computer. I really want to find others who share these interests, because I'm building a new career and many mutual opportunities could arise if I could pool my talents with others.\n\nSome compromises obviously must be made while in pursuit of this dream, and this is an extremely awkward time for everyone, so I'm open to any type of lodging at all, even camping possibilities.  All I need to be productive are power, internet and phone service.\n\nAny leads much appreciated!"
+ "One time I took some LSD and decided to listen to a bunch of Phil Spector recordings.\n\nPhil Spector was a famous music producer who introduced all sorts of wild recording techniques, including the novel idea of the \"studio as an instrument\". He said that the job of a producer is to assist in the creation of something so unique, that no one could ever possibly recreate it.\n\nThen for some reason, at the end of the playlist, on came \"Born in the USA\". Some people in the room overheard, and we all shared a moment of wonder, laughing quite a bit at how repetitive the lyrics were. What was he even talking about? Why is he so proud to be born in the USA, and why the need to scream it so passionately like 87 times?\n\nPerhaps you had to be there. The song turned into kind of a running joke in my home, which led me to sit down to learn it. Still, I had found it more entertaining to preserve the lyrical ambiguity of the song (as well as our running joke) through willful ignorance than to bother trying to read and analyze it.\n\nNow that the lockdown protesters have brought the song into the news with a much more embarrassing failure of interpretation, my curiosity can at last be put to rest.\n\nGod bless this great nation."
+ "I've released a system for live-coding, an art of programmatic music generation that is fueling the Algorave movement currently becoming popular in NY and London: https://en.wikipedia.org/wiki/Algorave\nThe performer composes music live by entering forms into a standard text editor, that is connected to the running program and used to interact with it, constructing samples on the fly and building loops.\n\nIt's free, open-source and ridiculously simple, utilizing some surprisingly cutting-edge technologies, all to emulate the sound of retro-hardware!\n\nRuns in a Bash terminal, which is available on Linux, MacOS, and now Windows.\nCode: https://github.com/porkostomus/chip-sox\nMECCA Music Platform"
+ "The selection process has begun. I'll soon find out if I'm going to India.\nhttps://hasgeek.com/inclojure/2020/proposals/ganges-clojure-retro-game-music-engine-grGYpoWutaAE5cCxrg7JCC"
+ "In today's article, I talk about ripping music data from Nintendo games:\nhttps://porkostomus.gitlab.io/posts-output/2019-12-06-mecca-nsf/"
+ "My talk was recorded and will soon be up on YouTube! It was *very* well received. There were audible gasps, and lots of applause. Afterwards, several team members gathered around me.\n\n\"Are you looking for work?\" One of them asks. Did I really just hear those words?\n\n\"Yes, but...\"  I pause briefly, then proceed to build the kind of setup that would likely make you want to punch me in the face. But this time, it actually lands:\n\n\"I don't have a Computer Science education...\" I continue. They appear to give gestures of dismissal, a positive sign. \"And none of my work history is in development, my background is in music education.\" Again, their response conveyed that this was hardly an issue. Perfect! So then I go for the punch line:\n\n\"So the only thing that I have to show for myself is...\" but before I could finish the sentence one of them interrupted me.\n\n\"ACTUAL STUFF?!?!?\"\n\nð¤£ð¤©ð¤ð¥³ð¤£"
+ "My submission to IN/Clojure (India's Clojure conference coming in February):\n\nhttps://hasgeek.com/inclojure/2020/proposals/ganges-clojure-retro-game-music-engine-grGYpoWutaAE5cCxrg7JCC"
+ "https://en.wikipedia.org/wiki/Algorave\n\nhttps://www.nytimes.com/2019/10/04/style/live-code-music.html"
+ "\"We Will Rock You\" by Queen (demo)\nMECCA Music Platform\n\nFinally got the animation and scrolling synced to the music. It's much more fun now!"
+ "In the process of tuning the algorithm for assigning voices to imported music, and I made a widget for convenient loading of song data, in either MusicXML or Extensible Data Notation, the editor's native format."
+ "Finished my MusicXML parser!\n\nMusicXML is the most widely used format for distributing musical scores such as those produced with Sibelius, Finale and Musescore.\n\nThat means we will soon be able to take virtually any published piece of music and bring it into Mario Paint!\n\nI am gonna get into SO much trouble with this..."
+ "Tried recording a song today. Made from raw soundwaves in MilkyTracker for Android. OMG that was a nightmare... actually input that over the last couple months in Portland while on the street - it's how I would pass the time when my laptop battery was dead, but trying to use this ancient music interface (an Android port of an SDL port of a DOS program from 1991) on such a horrible device (my free gov't \"smrtphone\" that crashes while you're in the middle of dialing) became an excruciating test of will. for the magnitude of frustration generated as a side effect of this task was nearly sufficient at times to yield a critical mass, a potentially deadly concentration of discontent unable to be contained within a human skull. Was cool to get to do the vocals at home on the computer for a change, instead of making a spectacle of myself by screaming into my phone in the middle of the night over the sound of traffic. Did way too many vocal tracks actually. Layering like 12 voices sounds like a good idea, but quickly turns into a pile of garbage if you're not careful."
+ "Curious what the MECCA Music Platform is all about?\n\nMario Paint was an incredibly innovative \"game\" for the Super Nintendo. It came out in 1992 and featured the NES Mouse for drawing graphics, and ended up spawning a real cultural phenomenon that is actually still unfolding - just check out all the videos of songs made with Mario Paint Composer, which was a Windows program (and later a web application) that expanded upon the music editor and reached a level of infectious popularity due to what I believe to be a winning combination of interactive approachability and a highly sensible choice of features in a friendly design that maximally encourages exploration, making a new level of creative expression through audiovisual media accessible to a whole generation.\n\nI'm not the only one continually delighted by this thing. I Just happened to come across a nice article that expresses very well the magnitude of artistic synergy made possible by effectively bringing together music composition, pixel art and animation into a well designed interface, producing a powerful multimedia design suite with cool sounds, pretty colors, and cute characters.\n\nHere's a paper providing a comprehensive analysis by a professor of Chiptune music: https://www.academia.edu/17232607/Mario_Paint_An_Accessible_Environment_of_Musical_Creativity_and_Sound_Exploration\n\nAnd since we so love academic papers oozing with music nerdy goodness, here's an awesome explanation of one of the main technological areas in which I intend to improve - by raising the standard for interactive, dynamically rendered music notation, meeting the high quality and precision demanded by the tradition of sheet music engraving, while pushing the user interface so far that I think it ought to define its own new little form of media that I'm calling \"Music Animation\".\n\nMusic Animation... sounds kinda weird, doesn't it? The words seem to not quite fall together, leaving a bit of a conceptual vacuum when you wonder why it isn't it more of a thing. How could it be that these primary forms of artistic expression don't seem to be so often used in a more complimentary fashion? One form tends to most often serve to enhance the other, we have tons of visual art, whether it's graphical, performance, gaming, etc. in which music is an undeniably critical piece, and it's easy to imagine the opposite too - the use of multimedia displays, dancing, etc. to provide a visual context and enhanced sensory experience to music theater. But what about allowing them to truly play together? I think we could just be missing a whole field of entertainment here, the celebration of the structural beauty of music composition when it is fully *brought to life* -- Music Animation.\n\nOne possible reason for this void that I have come to realize through this project is very much technological. Music notation, the effective graphical representation of rhythms, melodies and harmonies over time, turns out to be a way harder, more intricate problem than one would expect. The long tradition of music engraving is a colossal gallery of complicated edge and corner cases amounting to a big enough graphical layout challenge to produce a typographical design nightmare. Reading music is really hard. And if one thing is just slightly off, you'll have musicians squinting their eyes in confusion.\n\nThroughout the migration of the art of music engraving into the digital world, we have witnessed once again the destructive power of proprietary technology, and the extent to which innovation can be halted when a field becomes dominated by companies with a specific interest in keeping it from the public. This is why I think we currently have so much room to grow in the areas of music design, presentation and archival. We have found ourselves buried in a horrible mess of incompatible formats, a useless duplication of human effort. This is the case in pretty much every corner of music education and production - you've got the various \"Digital Audio Workstations\", each with its own (usually terrible) interface, nearly always running on some proprietary platform, imprisoning all our hard work in a tragic fashion that will only transfer to future platforms with great difficulty if at all. For graphical notation, we have failed to advance at a pace comparable to other forms of culture due to the only acceptable implementations confined to the domain of programs like Sibelius and Finale, each with their own system that will never be able to communicate with any other, or to allow the fruits of our creative efforts to progress freely, evolving into possibly new forms of media\n\nIt seems however, in a nice twist of optimism, that we as a society are beginning to get this. Progress-stifling greed will not be going away anytime soon, but the message is becoming loud and clear that we need to work together to advance as a civilization, through the free sharing of ideas."
+ "Added a 3-line drum staff. And you can now enter a melody with the mouse and play it back using the play button. So far it only works for 2 bars of quarter-notes, because I'm building my own SVG music notation rendering engine from the ground up.\n\nAlthough it doesn't do much, this music maker is live and available to use in its very early state at https://porkostomus.github.io/mecca/."
+ "My new music editor design, based on the classic Mario Paint interface that I converted to vector graphics and expanded to include the bass clef."
+ "\"A music synthesizer?\"\n\nMy interviewer asked, after I mentioned what I've been spending all of my time on.\n\n\"Yeah, that's interesting from a computer science perspective, but not really relevant to what you would be doing in the industry at all. You should probably focus on something more practical.\"\n\nWhile he was talking, he was looking at the source code repository for my music synth project, and his tone suddenly did a major shift.\n\n\"You know... I take back what I said. You shouldn't sell yourself so short. This is *really* good code, and extremely well documented. You should keep working on this and try to do something with it, like prepare a talk for the next conference.\"\n\nI thanked him for the encouraging words.\n\n\"You had made it sound like you haven't done much. But that's not true, I can see it right here. You can write good code!\""
+ "Working with some of the worst music production gear ever... a terrible Android phone, done while walking around Portland while waiting for my job interview. Chiptune made with Milkytracker, a clone of an old DOS program, which was a clone of a program that ran on the Amiga. And this ridiculous thing is now ported to Android. Vocal tracks done with J4T."
+ "Making my own sheet music rendering engine for my app, using vector graphics."
+ "Lots of progress made on my music app this week.\n\nCheck it out on the web:\nhttps://porkostomus.github.io/mecca/"
+ "The \"Ukuleground\", a non-profit family-friendly DIY instrument shop and music education center, was a made-up venue I created a few years ago for an English assignment.\n\nI brought it up last night at my weekly coding meetup, and was met with considerable enthusiasm. People told me that such a place would actually bring a ton of value to the community.\n\nSo we're putting a call out for additional interested parties. Please contact me if you or anyone you know might want to get involved in helping make this vision a reality!"
+ "More desperate musicing, a 4-track a capella recorded on my shitty phone"
+ "Hmmm it's $20, probably worth going! And I don't even enjoy live music..."
+ "Not ready for prime time, merely the by-product of a music addict's 4th week of withdrawal. Since I moved I haven't had any way to make music, so I am making a music app. So far it is an extremely crude but functional bass sequencer. You can try the live app here: https://porkostomus.github.io/mecca-web/\n\nSource code:\nhttps://github.com/porkostomus/mecca-web\n@[251540665307856:274:MECCA Music Platform]"
+ "I prepared a comprehensive response to my potential job in Denmark - but haven't sent it yet.... I want to make sure it's good first. Feedback most appreciated! Is it too long? What should I add/remove? Typos? It contains a bio of my journey into programming, all the way from childhood tinkering to my grand motivation for choosing the career and technologies, to the frustrations of trying to get into a competitive industry with only a resume and portfolio of personal projects. Time to work some magic with some persuasive writing? I'm attempting to win them over by pulling out my strongest quasi-visionary tactics. Let me know if you think I should change anything.\n\nHi <Potential Employer>,\n\nThank you for taking the time to reply. It is not often that I find a company looking for a junior Clojure dev, which is understandable given that folks who use Clojure tend to be some of the most experienced in the industry, and very much sought after for the exceptional productivity they have honed throughout their career. It's a small pond, but with an intimidatingly formidable competition. By all means, take as much time as you need to assess your situation and consider your options. In the meantime though, I thought I would provide a more detailed, casual introduction. I'd like to explain a bit how I arrived here, and why I am so excited about the possibility of relocating to be part of a Clojure team. \n \nMy personal computing history actually goes back to DOS and BASIC in my childhood on an IBM XT, my father's old business machine. I made simple games in BASIC that targeted the Speech Thing, one of the first consumer-level text-to-speech systems. I learned to write batch files and solve problems for my dad, who used it for database management and desktop publishing for his mail-order tool company. I struggled to piece everything together from magazine articles, as one did before the days of the modern internet. But I had no one to come to with questions or to receive feedback or guidance, so could only go so far, and went on to pursue other things.\n \nMy main inspiration for programming as a career started in 2015 with Python. I was studying mathematics, music and psychology at the time, but ended up spending more time trying to fix my computer, and sought help from my college's makerspace. They set me up with a Raspberry Pi 3, and I was so impressed with it that I got rid of all my other systems and used it as my only computer for an entire year. I felt that we were entering a new age of computing where once again users were encouraged to tinker with their systems, use the command-line and learn programming languages, but this time the field had matured to be fundamentally different: Not only do we have access to a myriad of online language communities, unified knowledge bases with answers to nearly all my questions, centralized repositories for code discovery and social networks for sharing our work, but I caught a glimpse of the endless possibilities for applications to be applied to every other field, and became convinced that software development has become the predominant vehicle for technological advancement. As an educator, however, I recognize above all the incredible potential for software to radically change the way that we learn. When I realized all this I understood that developing a proficiency in application design would be the most valuable investment one could make to increase productivity by orders of magnitude in any domain.\n \nI was learning Python but needed to come up with a first project. I needed to make something useful, that would solve some problem. So my first real app became a simple GUI spreadsheet app to help me play a city-builder simulation game in which the strategy involved keeping track of a lot of data. I was playing the game and realized that I could gain a strategic advantage by writing a program to help me track inventory and optimize production. The challenge of the game was based on our limited human ability to make sense of complex data and make educated decisions based on its analysis, and I saw an opportunity to overcome that limitation through writing a simple program. It worked so well that it felt like I was cheating, but it ended up teaching me a much deeper lesson about how to recognize where our psychology breaks down and how it can be effectively complemented to gain critical insight.\n \nI also had a funny feeling that I would eventually come to look at my code and laugh, since I was writing individual functions for each item, amounting to nearly 1000 lines of Python (which I now know that I could probably do in a couple dozen lines of Clojure), and that my path in choosing the right technologies and developing effective habits had just begun.\n \nMy decision to use Clojure represents what I believe to be the most significant indicator of my path as a programmer, and in a language community full of people who are better than me, I'm counting on this being the piece that demonstrates to my future employer the kind of developer that I have the potential to become, as evidenced by the technologies and practices that I have come to use. For it was not a casual decision or an accident of circumstance that brought me here. My future team will see that I possess a quality of discernment to choose the most efficient and practical tools available, to not be swayed by the popular alternatives that gain users based on hype, and to carefully weigh the inherent benefits and risks involved in choosing a technology, in light of the ecosystem and community with which it comes bundled. My arrival to Clojure was the result of a very deep and careful survey of the history and landscape of paradigms and platforms, and very much guided by my experience as an educator. Having read SICP,, I developed an affinity with Lisp, in its Scheme incarnation. I installed DrRacket on my Raspberry Pi and learned Racket using the HtDP text. But this was all purely academic, to learn to be a better programmer. I never imagined writing that kind of code to build real apps, but was blown away when I saw that Clojure was one of the 8 languages supported by Heroku (thanks to Phil Hagelberg).\n \nEvery moment I've spent with Clojure since has been overwhelmingly positive. My first Clojure project was a tool to do 4clojure problems from the terminal. I learned basic i/o, error handling and database scraping. Then, as a fan of simple puzzle games, I made an implementation of Minesweeper that runs in the terminal which I am still iterating on, now a complete Reagent app in Clojurescript.\n \nNow, however, I have begun focusing mostly on JavaScript and plain React, along with the standard web-stack, both in an effort to better learn the host infrastructure, and to expand my employment opportunities. I believe that the habits that I've developed by getting the chance to learn from such gifted and generous individuals in the Clojure community has given me an incredible advantage. No other language has key players like Mike Fikes or Bruce Hauman... who follow me on twitter and will personally answer my questions! But finding any entry-level Clojure work has been a long struggle. I even took part in Eric Normand's Clojure career workshop, and was given some great leads, but could not make up for the fact that I was vastly inexperienced compared to my competition.\n \nI got frustrated for awhile and took a break from Clojure, and wrote a text editor in C for which I later enabled Clojure syntax highlighting and simple eval via Planck. And I wrote a music synthesizer in Bash which helped me get a solid handle on shell scripting, which ends up being indispensable in every project at some point. I had decided that Clojure, while a great language, was just not practical enough. The only thing that kept me with it, was that I had an Introduction to Clojure talk to prepare to give at LinuxFest Northwest, for which I was to play the role of the Clojure evangelist!\n \nI ended up being sufficiently persuasive for at least one individual - myself. If I hadn't had to give the talk I might have moved on, but it was such a positive experience that I ended up convincing myself to stick with it, and gave a (much better) presentation the following year.\n \nThen a miracle happened. I ended up getting called back for a position in England with a relocation package. After the interview, they immediately called me back... to invite me to the team! Since they got a curiously low number of applicants, my resume stood out. But since I had little experience, they decided to create a Junior Clojure position just for me! Finally it all paid off, I had landed my dream job, and was on my way to move across the world!\n \nThen a bunch of time went by and I didn't hear anything from them. I started to wonder why. Then they finally informed me that there had been a mistake, and it turned out that their advert had not been displayed through the proper channels, and was to be rerun. After many months of suspense, I was regretfully informed that they had received applications from some very accomplished developers, and were forced by the powers that be to accept them before me.\n \nI congratulated them. That's good, right? They deserve to hire the best talent out there. But the more proficient I become with Clojure, the more I wonder what value I could have brought to them in the long-term. Or what avenues for Clojure education could have been brought forth as the result of building a team consisting of a healthy balance of skill levels. This is the value that will be recognized by my team, when the time is right.\n \nI spend a lot of time thinking about the growth of Clojure, and why it remains in its humble place in the general development landscape despite its clear advantages. Its apparent barriers to adoption are indeed a disturbing point for many, and often the beginner experience is cited as the likely culprit. This may be true, and I say, admittedly at the risk of being totally self-serving, that the answer is simple: If we want new developers to come to Clojure, we need to create jobs for them! And hire them!  \n \nThank you so much for your honest consideration. I'm confident of your judgement and have no expectations. I wish for your company much success, and most importantly, to enjoy what you do every step along the way.\n \nBest wishes,\nBobby Towers\n \nP.S. Yeah, Just Juxt was an idea that came out of my workshop with Eric Normand, and was suggested during the Apropos show, which had a bit of a running joke about solving every problem using juxt. It was my first project using multiple APIs (github and twitter) and a challenge in fetching code, parsing it and preparing it into published content for which I'm still in the midst of finding a sweet spot for maximal education and entertainment value. I'm currently trying to figure out how to automate the tweets in such a way that will not get boring or annoying once the novelty wears off. So until I find a good system of intelligently curating the juxts and posting at optimal intervals, I feel that it is a project better suited for human curation. So I used it as an opportunity to go really crazy, and made a blog where I broke down a different solution with juxt every day. I had lots of free time and it got a lot of attention from Planet Clojure and in Daniel Compton's newsletter, who found it particularly inspiring. It was a blast seeing just how long I could keep a daily blog going. I made it 46 days before I ran out of juxts!"
+ "The Thalamus, Web Frameworks and the Neurobiology of Software\n\nThis is my response to a soon-to-be-released article by Daniel Higginbotham, author of Clojure for the Brave and True https://www.braveclojure.com/. He posted on Twitter that he very much wanted some feedback before publishing it, so this is what he got:\n\nCool! So to put my perspective in context, the ~3 years of playing with Clojure makes up the bulk of my programming experience. It seems a rarity for folks to pick Clojure to start with, but that's what I did. It was Clojure Brave that contributed greatly to this decision, so I'm very happy to be involved in your work. You'll have to forgive *me* for responding a little rambly, but hopefully my rambles will be somewhat indicative of the article's coherence which is your inquiry.\n \nFor one thing, I've never made a rails app. But now I kinda want to try it just to get the *full* framework experience.... Used Django a bit, I'm guessing it's probably about equally opinionated but less easy. Lots of bloat, with its very creator now running far and fast from all frameworks: https://www.youtube.com/watch?v=VvOsegaN9Wk\nAh... but I *am* familiar with how the operating system works (a little), so that's a very nice analogy.\n \nI had assumed that the article was going to be about Duct, but it appears not! Is Duct a framework? Closer, maybe?\n \nEric Normand wants to see a \"boring\" Clojure framework inspired not by Rails but by... Wordpress! https://lispcast.com/clojure-needs-grow-boring-web-framework-boring-data-science/\nWhat would that be like? I kinda want to see that... Maybe take Cryogen and start writing plugins...\n \n> In the Clojure community, one of the unwritten tenets is that frameworks can eat shit. Other languages might need frameworks, but not ours! Libraries all the way, baby!\n \nI feel this sentiment echoed most succinctly from Stuart Sierra in Learning Clojure: Next Steps https://www.youtube.com/watch?v=pbodL96HM28 when he warns us all *not* to make frameworks. Why not? Because, he says, frameworks require a language maturity that Clojure has not yet reached. So here we are like 6 years later. Are we ready yet? \n \n> Another \"problem\" is that Clojure tools like Luminus and the top-rate web dev libraries it bundles provide such a productive experience that frameworks seem superfluous.\n \nIf I understand, you are speaking to the effect that we've gotten so good at composing libraries that we're perhaps missing some major improvements that could be facilitated by a grand-unified system enabled by the framework? As if we're saying \"just glue all the pieces together, what's the problem?\" while failing to notice how much work we're duplicating both on the library level and the project level. \n \nAside: Where does Luminus get off calling itself a framework anyway? What about re-frame? Duct? Coast? Hoplon?  I have a feeling that all of these (while they are great systems) are missing the critical parts that bring the next level of productivity (which you later enumerate as _communication systems_ and _abstractions_). \n \n> Frameworks have second-order benefits, and I'll cover those too. They make it possible for an ecosystem of reusable components to exist.\n \nInteresting... in a way not possible with libraries? I'm a bit skeptical but can't wait to hear how! EDIT: once again, I now get it after reading more. But this is a really good (and somewhat subtle) point, so maybe drill that one in a bit more (you probably do - let me just keep reading)\n \n> A framework is a set of libraries that:\n \n> * Manages the complexity of coordinating the _resources_ needed to write an application\n> * By providing _abstractions_ for those resources\n> * And _systems for communicating_ between those resources\n> * Within an _environment_\n> * So that programmers can focus on writing business logic\n \nSo there they are. I'm thinking about another metaphor, like a complex organism with skeletal, nervous, respiratory, digestive systems, etc. which together form a living being. Or a brain... all the mental faculties combine to cause to emerge an entirely new level of awareness that absolutely cannot be understood by simply analyzing the individual systems. Is it time for the Clojure ecosystem to grow a brain? \n \nAside: drawing from some interesting psychological research - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857829/ it is conjectured that the \"seat of consciousness\" in the brain may actually be the thalamus - which acts as a kind of central switching hub, a relay center. It seems plausible because it is the one intersection that *all* of the various parts of the brain end up routing through, making it the only possible candidate responsible for producing an integrated sense (or illusion?) of self and our environment.\n \nWent out on a limb there. Perhaps I should just write my own response piece about the neurobiology of software. But anyway... what *is* the thalamus of a web app?\n \nThe usual dichotomy drawn of inversion of control (your *code* calls libraries/frameworks call your code) is conspicuously missing in your definition. EDIT: I see that you do mention this later. I'm sure you have good reasons for these criteria. But at first glance they seem more \"slippery\", i.e. I could kinda make a case for \"set of libraries X\" being a framework. EDIT: but after reading the whole article it makes perfect sense (or maybe I just have an uncanny capacity for self-delusion?), that it needs to provide *all* of them, in their full capacities and *cooperating with each other* to support a living being.  I'm curious what is/are the \"missing piece(s)\" that pushes it over the edge. What would have to be added to something like Luminus to make it a framework? That is, if it is indeed possible, a question I think you raise later.\n \nAh, here we go:\n \n> Frameworks make these decisions for us, allowing us to focus on business logic, and they do so by introducing _communication systems_ and _abstractions_.\n \nSee, every time you answer my questions if I just keep reading. I think I'm starting to get it, nice!\n \nBTW, Joyent's Bryan Cantrill has an absolutely superb history and explanation of the pipe and unix philosophy: https://www.youtube.com/watch?v=S0mviKhVmBI I spoke about this during a Clojure talk I gave at LinuxFest Northwest, because I notice a common theme here - composability. Bryan then says that 4 decades later, this still remains the single biggest innovation in software systems thinking.\n \nBut you are asking for us to take it a step further - and perhaps add the *file system* to Clojure? \n \n> By contrast, the presence of a communication broker can make life much easier. In the Clojure world, the React frameworks re-frame and om.next have embraced global state atoms, a kind of communication broker similar to the filesystem (atoms are an in-memory storage mechanism). They also both have well defined communication protocols. I'm not very familiar with Redux but I've heard tell that it also has embraced a global, central state container.\n \nYes, that's it! The thalamus! The universal crossover point that forms the source (or illusion) of truth.\n \n> If you accept my assertion that an operating system is a framework, then you can consider any program which communicates via one of the OS's communication systems (sockets, the file model, etc) to be an extension of the framework. Postgres is a framework extension that adds an RDBMS resource. statsd is an extension that adds a monitoring resource.\n \nI was sort of conceiving them as a heirarchy of interacting sub-frameworks, but I'm not sure if that really adds anything to the discussion besides confusion. For example, Ring is an http abstraction that coordinates the communication within its environment. Could that make Ring an *http framework*? Clojure.test is a *testing framework*, because it coordinates the communication between your functions and their tests in the environment of you program.\n \nWrapping up, you've made a case for frameworks that has genuinely transformed my thinking. Contrast Rich Hickey's insightful though puzzling musical instrument analogy to the A.N. Whitehead quote he gives in \"Are we there yet\":\n \n\"Civilization advances by extending the number of important operations which we can perform without thinking of them.\"\n \nFor that... we're gonna need some frameworks!"
+ "This happens every couple of years or so - I find out that someone just found out that they've been a long-time listener of my music, but didn't know it because of this: https://www.mansonwiki.com/wiki/List_of_fake_Marilyn_Manson_songs#.22Every_Time.22 \n\nNothing can beat the most serendipitous occurrence of this, with @[100000112080314:2048:Dustin Fields], who I randomly moved in with in Portland a few years back, and said he knew the song and thought it was @[93211205814:274:Marilyn Manson] all this time. It was honestly too outrageous to fully believe, until he proved it by digging up a mix tape from 1999 with my song on it!\n\nI told this story, of writing a hit song and not getting credit for it, to my music professor who owns a record label, and she asked, shocked, \"What are you doing about that?\"\n\nI didn't know what to say. What can I do? How do I get paid for this? I need me some of that Internet Moneyâ¢...\n\nYou can help by buying the single: https://store.cdbaby.com/cd/bitchesonacid\n\nOr check out the full debut album, @[509855932427215:274:Bombastic Dubstep] on your favorite online music store:\nhttps://music.apple.com/us/album/bombastic-dubstep-2013/694192215\nhttps://www.amazon.com/Bombastic-Dubstep-2013/dp/B00ESXIHE6\nhttps://open.spotify.com/album/7BD4LSki0D0hvymTABty3g\nhttps://play.google.com/music/m/Bldaiyj3ynjk7xetih4pg5yzhb4?t=Bombastic_Dubstep_2013_-_Bombastic_Dubstep\n\nAnd for the truly hardcore, stay up to date on all the unreleased material:\nhttps://soundcloud.com/boacid"
+ "For this weekend's presentation at @[239548517285:274:LinuxFest Northwest] I created a simple format for representing music as text, and a program to sequence chiptunes from them consisting of drums, bass and lead synths."
+ "We hosted our first Sushi House Open Mic and it was a blast! Big thanks to our MC ChÃ¶ch Spottedhorse Nickerson, Denny Franzmann and everyone who helped make it happen and the folks who came to play.\n\nWe're gonna be doing one of these every month, so if you live in or near the Bellingham area you should come out! And if not... definitely consider moving here because the music scene is happening!"
+ "Here's links to some of the bands' music:\nBitches on Acid - https://soundcloud.com/boacid\nQabbala Qawwali - https://www.youtube.com/user/QabbalaQawwali"
+ "Here's links to some of the bands' music:\n@[262327695149:274:Bitches on Acid] - https://soundcloud.com/boacid\n@[180077988732795:274:Qabbala Qawwali] - https://www.youtube.com/user/QabbalaQawwali"
+ "For some reason I never put this on YouTube. I made it for my electronic music class. The professor told me that the world is not yet ready for me."
+ "Attention all musicians, non-musicians, drummers, singers and dancers: Join us tomorrow (Friday) at the Sushi House at 7pm for Qabbala Qawwali, an ecstatic devotional singing circle.\n\nThis will be the first of a series of gatherings with the intention of putting together a community benefit concert to raise awareness for issues of mental health."
+ "People are already getting hyped up about LinuxFest 2019! Just in case I'm still in the states this April, I'll be giving two coding presentations:\n\nMake a music synthesizer in Bash - Programming: The new Rock 'n' Rollâ¢\n\nLive Coding Minesweeper in Clojurescript - Develop for the web... without JavaScript!\nhttps://www.linuxfestnorthwest.org/conferences/2019"
+ "Embrace technology.\n\nYes...it's weird. So is being a consciousness trapped in a human body living in this fucked up world. Get used to it.\n\nI thought I had gone to school for the wrong things. A music career didn't work out for whatever reasons. So then I studied psychology, not because I could ever possibly imagine being the guy with the couch, but because I felt that life must be lived with the fullest possible understanding of how we think.\n\nIn the entirety of my 4 years in college, there is one moment that takes the cake: We were learning about the flawed manner in which we recall events through memory, how every time we retrieve a previous experience it is actually re-encoded, and the implications this could have in the legal system. Should eyewitness testimonies really be trusted if we have the proven capacity to recall false memories? The question was asked to the class, and I raised my hand.\n\n\"It's kind of like that episode of South Park, where every time Cartman has a flashback, it gets more and more obnoxiously far-fetched.\"\n\n\"Um... well, you're talking about a cartoon...\", she mumbled, seeming like I ought to feel embarrassed for wasting their time or something.\n\n\"Yeah...\", I acknowledged, \"but I feel like it reveals a kind of truth that we could learn from. I have here a quote from Oliver Sacks...\"\n\n\"Oh I love Oliver Sacks...\", she perked up, her whole demeanor shifted as I eagerly flipped through my notebook.\n\n\"Every act of perception, is to some degree an act of creation, and every act of memory is to some degree an act of imagination.â \n\n\"Would you have a minute to speak to me after class?\" she asked after a brief moment. \"I wanna talk to you about Oliver Sacks.\"\n\nInstant teacher's pet. At least, that's how I remember the conversation.\n\nBut it turns out that this education was good for more than pleasant memories to post on Facebook. It just so happens that psychology is a vital component of software user-interface design, since we are designing systems for other people to use. And what do I do about my music? Write programs for making music!\n\nBut this isn't supposed to be about me. The point I'm trying to make is, embrace technology. You're on a computer right now, it's how we're doing *everything*. No matter what it is you do, I am 100% sure that there's a way that your workflow could be better optimized.\n\n\"Civilization advances by extending the number of important operations which we can perform without thinking of them.\" - Alfred North Whitehead"
+ "My music synth is trending on Reddit right now!\n\nIf you'd be willing to take a moment and upvote it, it could mean a huge boost to my programming career by helping the community see some of the stuff I do. Thanks, Muah! \n\nhttps://www.reddit.com/r/programming/comments/92y1zc/zelda_theme_chiptune_generator_programmed_in_bash/"
+ "A new way to encode and share music:\nhttps://midibin.com/midi/5"
+ "I'll be playing music here this Saturday"
+ "\"So... are you like, a musician in real life?\"\n-Actual question I received while presenting this"
+ "To demo my chiptune generator I coded the Zelda theme.\n\nFun fact: If you listen closely it seems like you can hear kick drums but it is an illusion caused by the sharp attack of the triangle bass mixed with the white noise of the hihat. That pretty much equals a kick drum, so your brain can't tell the difference.\n\nIf unsatisfied, please proceed to remove your brain from its cavity, spit on it, throw it on the floor, step on it until it squeaks three times and call the number on the inside flap. That's what I did before this recording and it sounds fine now.\n\nThis is free software. That means you are free to view, download, and modify the source code (for both the music tracker and the songs) at: https://github.com/porkostomus/mecca"
+ "A year ago I announced that I had a big idea and called it the @[251540665307856:274:MECCA Music Platform]. Since then it has basically been an empty software repository. Until today. The first piece of my music software suite, the synth, is available for testing.\n\nhttps://github.com/porkostomus/mecca"
+ "I'm excited to announce a major advancement for my @[251540665307856:274:MECCA Music Platform]! I will be collaborating with Zach Oakes, the creator of several cutting-edge tools for web application and game development. We will be working together to produce an integrated environment for learning programming logic by making music and games. He knows the software... and I do that there music stuff, that's the arrangement.  https://www.youtube.com/watch?v=0GzzFeS5cMc"
+ "I made a working version of Breakout with Mario blocks and HeroQuest music, in Java using the libGDX game engine:"
+ "I really enjoyed everyone's responses when I asked about retro video games. Now that I know what you really like talking about... One thing that was pretty obvious is that any great game MUST have a killer soundtrack. Which leads me to this week's question: What is your favorite video game music? But let's make it harder by limiting it to... just the NES! Based on your answers, I'll pick one to use for a very special project.\n\nThe NES has just five sound channels, two for melodies with variable pulse width, a triangle wave generator for the bass, and a noise generator for drums. The 5th one plays low-quality digital samples.\n\nFun fact: The composer's original submission for the Mega Man soundtrack was rejected, because they said it sounded \"too cute\" and \"not cool enough\". I guess he fixed it. https://www.youtube.com/watch?v=lDC4X8Dgxr4"
+ "http://crjunkie.blogspot.com/2018/01/milkytracker-quest-for-perfect-music.html I spent 20 years trying out desktop audio programs. Here's what I learned:"
+ "https://www.youtube.com/watch?v=fdB5dhPXiXc This is my first video of the series on functional programming with Clojure. It demonstrates several new tools and techniques:\n\n1) I made the background music with MilkyTracker, a cross-platform app for making 8-bit chiptunes.\n\n2) Speech synthesis using the Google Translate engine via soundoftext.com. With the British voice, of course.\n\n3) Cool Retro Terminal gives a real vintage look like an old CRT TV!\nAll together it looks like something made in 1987!"
+ "It's time for a new album, my last full release was @[509855932427215:274:Bombastic Dubstep] 2013 and people keep asking for new stuff! One thing we learned from the last one was the consequence of riding the wave of a popular musical trend - though it uniquely captures aspects of a powerful new genre, it came on the tail end of it, when people were already tired of dubstep. Which is why the next @[262327695149:274:Bitches on Acid] album will be... chiptune! https://en.wikipedia.org/wiki/Chiptune More details to follow."
+ "I am beginning the development of the @[251540665307856:274:MECCA Music Platform] (Music Education, Composition, Creation Application), which will leverage the new Overtone music framework and SuperCollider audio engine, some really awesome technologies that, when incorporated as part of a new digital audio suite will make every aspect of learning and producing music more intuitive and expressive.\n\nThe idea is to focus on acoustic modeling, providing comprehensive synth editors that allow you to dynamically construct virtual instruments using simple oscillators and effect processors. Instead of relying on prerecorded samples, you learn to produce all of the music yourself from the pure sonic building blocks by tuning the specific variables.\n\nI'm doing this because the world needs more people making music. Like everyone! I agree strongly with Daniel Levitin who explains in his book This Is Your Brain On Music that a much unfortunate and unique phenomenon has happened in our culture where we have taken on the perception that you have to be talented to do art. Compared to other activities, it is pretty absurd that we should demand such a high level of aptitude just to be considered acceptable. If you cannot prepare a meal like a master chef, do you not cook dinner? If you cannot play a sport like the pros, should you not be able to enjoy a game with your friends?\n\nWith all the impressive advances in software sequencers and virtual instruments, I believe we can be doing a whole lot more to put powerful music creation tools into the hands of people of every skill level. That's what this platform is all about!\n\nWant to know more? Feel free to visit the page and get involved!\nhttp://overtone.github.io/\nhttp://supercollider.github.io/"
+ ...)
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/search
+clj꞉porkostomus.fb꞉> 
+("Got my computer back up running Linux now, itâs pretty cool!"
+ "http://lilypond.org/\nWhere your inner musician meets your inner computer geek."
+ "@computer geeks, help, wifi wont work!  #reD2throComp"
+ "@computer-type people, say I want to read something that someone posted on facebook months ago and is very far buried, is there a way to get to old entries besides painstakingly clicking to get further down?"
+ "There are only 2 or 3 people I can think of who are NOT on Facebook.  One of them is my grandmother, and I don't think that counts because she doesn't even have a computer.  But another is my dad, who says, \"When the hell would you ever actually be in a room with 400 friends?\""
+ "Back in my hometown, Seneca Falls, NY.  At the library because airline security took my computer.  No phone either, so good luck finding me!"
+ "\"Honey, hippies just aren't what they used to be. This guy was on the highway, wearing a long robe, and a turban... and then he's at the synagogue with his computer!\" - Mayor of the Moshav to his wife about me"
+ "is in NY.  Having computer problems, call me if you want to get together. 321-945-9775")
+clj꞉porkostomus.fb꞉> 
+("Got my computer back up running Linux now, itâs pretty cool!"
+ "http://lilypond.org/\nWhere your inner musician meets your inner computer geek."
+ "@computer geeks, help, wifi wont work!  #reD2throComp"
+ "@computer-type people, say I want to read something that someone posted on facebook months ago and is very far buried, is there a way to get to old entries besides painstakingly clicking to get further down?"
+ "There are only 2 or 3 people I can think of who are NOT on Facebook.  One of them is my grandmother, and I don't think that counts because she doesn't even have a computer.  But another is my dad, who says, \"When the hell would you ever actually be in a room with 400 friends?\""
+ "Back in my hometown, Seneca Falls, NY.  At the library because airline security took my computer.  No phone either, so good luck finding me!"
+ "\"Honey, hippies just aren't what they used to be. This guy was on the highway, wearing a long robe, and a turban... and then he's at the synagogue with his computer!\" - Mayor of the Moshav to his wife about me"
+ "is in NY.  Having computer problems, call me if you want to get together. 321-945-9775")
+clj꞉porkostomus.fb꞉> 
