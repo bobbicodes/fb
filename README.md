@@ -4,22 +4,22 @@ A library for "Personal Analytics"
 
 -or-
 
-A way to browse my facebook posts without having to use their awful app.
+A way to browse my facebook posts without having to actually use their awful app.
 
 ## Rationale
 
-Since 2007 I've basically used Facebook as a journal, or "Captain's Log".
+Since 2007 I've basically used Facebook as a journal, or "Captain's Log" if you will.
 Thus it has become the most consistent source of data about my life.
 However, the interests of social media go against this philosophy because they need to encourage content to be "throwaway" so they can maintain a steady spray of shit in our faces. Therefore they make no effort to optimize navigating archives and might even go out of their way to make it difficult, negating what I see as the medium's best strength - an archive of our digital lives.
 
 ## Usage
 
-FIXME: write usage documentation!
+Retrieve posts from October 2010:
 
-Invoke a library API function from the command-line:
-
-    $ clojure -X porkostomus.fb/foo :a 1 :b '"two"'
-    {:a 1, :b "two"} "Hello, World!"
+```clojure
+(posts (c/to-epoch (t/date-time 2010 10))
+         (c/to-epoch (t/date-time 2010 11)))
+```
 
 Run the project's tests (they'll fail until you edit them):
 

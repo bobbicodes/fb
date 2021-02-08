@@ -186,3 +186,530 @@ clj꞉porkostomus.fb꞉> 
   :data [{:post "just arrived in Tzfat! My welcoming committee: Police, as usual."}],
   :title "Bobby Towers updated their status."})
 clj꞉porkostomus.fb꞉> 
+({:timestamp 1319100062,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=nCdbk3Upg7s"}}]}],
+  :data [{:post "Unreal! Two of my favorite vocalists!"} {:update_timestamp 1319100062}]}
+ {:timestamp 1319087445,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=tZKbovbFT7o"}}]}],
+  :data [{:update_timestamp 1319087445}]}
+ {:timestamp 1318889774,
+  :data [{:post "What would you nominate for top 5 most essential metal bands?"}],
+  :title "Bobby Towers wrote on Sean Augustus's timeline."}
+ {:timestamp 1318871334,
+  :attachments [{:data [{:external_context {:url "http://soundcloud.com/raphaeljacob/whippin-the-children"}}]}],
+  :data
+  [{:post "My dad is sending me my old electric guitar! That means I can start making music like this again:"}
+   {:update_timestamp 1318871334}]}
+ {:timestamp 1318746652,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Z9yGNVk0Two"}}]}],
+  :data [{:update_timestamp 1318746652}]}
+ {:timestamp 1318536362,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=RxXHSELkgiw"}}]}],
+  :data
+  [{:post
+    "Aunt @[1256800901:2048:Judy] I put this recording of grandmaâs on Youtube because of all the versions on there I donât think any compare to hers, particularly the way she interprets the tempo."}
+   {:update_timestamp 1318536362}]}
+ {:timestamp 1318470418,
+  :data [{:post "â¯\njust figured the piano out!"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1318445576,
+  :data
+  [{:post
+    "âPerhaps an angel touching you, Divine energy whispering in your ear \"yes\", or perhaps just my groovy abode! :)â â my friend, when I told her I ASMR'd at her house"}],
+  :title "Bobby Towers posted in Autonomous Sensory Meridian Response Group."}
+ {:timestamp 1318444612,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=a7zJE6QtPoI"}}]}],
+  :data [{:post "I'm gonna learn this Yemenite tune for the Zohar"} {:update_timestamp 1318444612}]}
+ {:timestamp 1318437932,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=dd7Q7vhNB-I"}}]}],
+  :data
+  [{:post "I like the way grandma plays it better @[100000003670550:2048:Laura Aura Towers]"}
+   {:update_timestamp 1318437932}]}
+ {:timestamp 1318404937,
+  :data [{:post "5 THALLO ST.\nALL SPACESHIPS WELCOME!"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1318212154,
+  :attachments
+  [{:data
+    [{:external_context {:url "http://www.treehugger.com/files/2011/10/poop-powered-toilet-bike-toto-japan.php"}}]}],
+  :data [{:post "A Toilet Bike!"} {:update_timestamp 1318212154}]}
+ {:timestamp 1317665126,
+  :attachments [{:data [{:external_context {:url "http://www.youtu.be/fu9WVS96Q0k"}}]}],
+  :data
+  [{:post
+    "http://youtu.be/fu9WVS96Q0k\nThese guys get extra super exotic points for singing the Arabic\n×Ö·× ×Ö·××Ö´×¨ ××Ö°×Ö·××\n×Ö·×¨Ö·×ªÖ°×ª ×¤Ö´× ×§Ö·×Ö°×Ö´×Ö· ××©Ö°×Ö·××\n×Ö·×Ö·×¨Ö°×ªÖ°× Ö´× ××Ö°×¢Ö·××Ö´× ×××Ö°×Ö´××"}],
+  :title "Bobby Towers posted in Exotic Jews."}
+ {:timestamp 1317507265,
+  :data
+  [{:post
+    "Iâm a bit shocked. I talked to my sister about asmr and she doesnât get it! Thatâs weird, because I totally thought she wouldâ¦ but that makes it all the more special because up until now, I thought maybe it was only people who were less âin tuneâ who didnât get it."}],
+  :title "Bobby Towers posted in Autonomous Sensory Meridian Response Group."}
+ {:timestamp 1317485780,
+  :attachments [{:data [{:external_context {:url "http://www.amazon.com/dp/0316125407/ref=tsm_1_fb_lk"}}]}],
+  :data
+  [{:post
+    "Remember we read this back in fifth grade? I just found it at the library and Iâm about to read it again!"}
+   {:update_timestamp 1317485780}]})
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1351656850,
+  :data
+  [{:post
+    "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351643997,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0v06WQ2R9bs&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351643997}]}
+ {:timestamp 1351643301,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4",
+       :creation_timestamp 1351643301,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4"},
+       :description ""}}]}],
+  :data []}
+ {:timestamp 1351640412,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/768076_10151484231394321_3864022325_n_10151221080674321.mp4",
+       :creation_timestamp 1351640412,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail
+       {:uri
+        "https://interncache-prn.fbcdn.net/v/t15.0-10/245617_10151221084324321_10151221080674321_20978_1829_b.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-prn&oh=43944243f845bd0161e56b9956b8af67&oe=5F94B7E6"},
+       :description "Just testing out the camera on my new Nexus!"}}]}],
+  :data [{:post "Just testing out the camera on my new Nexus!"}]}
+ {:timestamp 1351638000,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Q-LEmO4SYYE&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351638000}]}
+ {:timestamp 1351566045,
+  :data
+  [{:post
+    "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351564707,
+  :data
+  [{:post
+    "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351481767,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/131317_10151218024349321_763979304_o_10151218024349321.jpg",
+       :creation_timestamp 1351481765,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Added some blue-raspberry creme to the front."}}]}]}
+ {:timestamp 1351375380,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/134036_10151215472199321_782939440_o_10151215472199321.jpg",
+       :creation_timestamp 1351375379,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description "Now weâre cookinâ."}}]}]}
+ {:timestamp 1351319986,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0_3C99nxjPU"}}]}],
+  :data
+  [{:post
+    "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+   {:update_timestamp 1351319986}]}
+ {:timestamp 1351316458,
+  :data
+  [{:post
+    "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351313689,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/178199_10151214131714321_1047534247_o_10151214131714321.jpg",
+       :creation_timestamp 1351313687,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description
+       "How to hang a uke on a wall w/o drilling any holes: 2 stick-on hooks, a dishcloth and some halloween duct-tape."}}]}]}
+ {:timestamp 1351311404,
+  :attachments
+  [{:data
+    [{:external_context {:url "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/"}}]}],
+  :data
+  [{:post
+    "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+   {:update_timestamp 1351311404}]}
+ {:timestamp 1351118929,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+   {:update_timestamp 1351118929}]}
+ {:timestamp 1351115579,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/w7jb/"}}]}],
+  :data [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]}
+ {:timestamp 1351107006,
+  :data
+  [{:post
+    "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351101348,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8C8z1wUn9A4"}}]}],
+  :data [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]}
+ {:timestamp 1351099572,
+  :attachments
+  [{:data [{:external_context {:url "http://www.youtube.com/playlist?list=PL-pLOSLmb-mHMpKESKB5lmIiY4J_ijAzo"}}]}],
+  :data [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]}
+ {:timestamp 1350778121,
+  :data
+  [{:post
+    "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1350759268,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+   {:update_timestamp 1350759268}]}
+ {:timestamp 1350758758,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+   {:update_timestamp 1350758758}]}
+ {:timestamp 1350756751,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post
+    "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+   {:update_timestamp 1350756751}]}
+ {:timestamp 1350678143,
+  :attachments [{:data [{:external_context {:url "http://kiwi6.com/file/m6rg6b41ie"}}]}],
+  :data
+  [{:post
+    "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+   {:update_timestamp 1350678143}]}
+ {:timestamp 1350530704,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=qrrzn0E1q2U"}}]}],
+  :data
+  [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+   {:update_timestamp 1350530704}]}
+ {:timestamp 1350506572,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/68040_10151199462734321_2070957158_n_10151199462734321.jpg",
+       :creation_timestamp 1350506570,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Me in piano class... drawn by my dad."}}]}]}
+ {:timestamp 1350161083,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+   {:update_timestamp 1350161083}]}
+ {:timestamp 1350025851,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Y0Z0raWIHXk"}}]}],
+  :data
+  [{:post
+    "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+   {:update_timestamp 1350025851}]}
+ {:timestamp 1349905669,
+  :data [{:post "made my day when i heard the WTC while walking by. you rock!"}],
+  :title "Bobby Towers wrote on The Aly Way's timeline."}
+ {:timestamp 1349783733, :attachments [], :data [{:update_timestamp 1349783733}]}
+ {:timestamp 1349747437,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+   {:update_timestamp 1349747437}]}
+ {:timestamp 1349736195,
+  :attachments [{:data [{:external_context {:url "http://collegerecordingjunkie.blogspot.com/"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+   {:update_timestamp 1349736195}]}
+ {:timestamp 1349624403,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=ZKGR-b13_co"}}]}],
+  :data
+  [{:post
+    "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+   {:update_timestamp 1349624403}]}
+ {:timestamp 1349558673,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=SV1OCWiW8hI"}}]}],
+  :data
+  [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+   {:update_timestamp 1349558673}]}
+ {:timestamp 1349501937,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/wHK2/"}}]}],
+  :data [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]}
+ {:timestamp 1349464684,
+  :data [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349460734,
+  :data
+  [{:post
+    "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349414100,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8z7h7vhAbOQ"}}]}],
+  :data [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}],
+  :title "Bobby Towers posted in Jews who like Turbans."}
+ {:timestamp 1349298862,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=6cX-WKmoMXU"}}]}],
+  :data
+  [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+   {:update_timestamp 1349298862}]}
+ {:timestamp 1349122176,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=jklHHB4o6xA"}}]}],
+  :data
+  [{:post
+    "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+   {:update_timestamp 1349122176}]})
+clj꞉porkostomus.fb꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/posts
+clj꞉porkostomus.fb꞉> 
+nil
+clj꞉porkostomus.fb꞉> 
+#'porkostomus.fb/posts
+clj꞉porkostomus.fb꞉> 
+({:timestamp 1351656850,
+  :data
+  [{:post
+    "I have two weeks to prepare a presentation on the Yemenite Diwan. I want to try to actually get the class to sing."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351643997,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0v06WQ2R9bs&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351643997}]}
+ {:timestamp 1351643301,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4",
+       :creation_timestamp 1351643301,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail {:uri "photos_and_videos/videos/749868_10151484236374321_4096316122_n_10151221131899321.mp4"},
+       :description ""}}]}],
+  :data []}
+ {:timestamp 1351640412,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/videos/768076_10151484231394321_3864022325_n_10151221080674321.mp4",
+       :creation_timestamp 1351640412,
+       :media_metadata {:video_metadata {:upload_timestamp 0, :upload_ip "66.253.196.29"}},
+       :thumbnail
+       {:uri
+        "https://interncache-prn.fbcdn.net/v/t15.0-10/245617_10151221084324321_10151221080674321_20978_1829_b.jpg?_nc_sid=73a6a0&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVkaWFVdGlscyJ9&_nc_ad=z-m&_nc_cid=0&_nc_ht=interncache-prn&oh=43944243f845bd0161e56b9956b8af67&oe=5F94B7E6"},
+       :description "Just testing out the camera on my new Nexus!"}}]}],
+  :data [{:post "Just testing out the camera on my new Nexus!"}]}
+ {:timestamp 1351638000,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Q-LEmO4SYYE&feature=autoshare"}}]}],
+  :data [{:update_timestamp 1351638000}]}
+ {:timestamp 1351566045,
+  :data
+  [{:post
+    "Barnett Golding once made a fascinating observation that my train of thought is difficult to follow, because I'm always a step ahead of where you expect. This is becoming very clear now in my writing assignments... I'm trying to push them further than I am expected to. I end up with a more interesting and personally relevant paper... sometimes the professors appreciate what I'm doing, and sometimes not."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351564707,
+  :data
+  [{:post
+    "Got a cable at Radio Shack so I can make an old-fashioned mix-tape from Youtube videos. The guy couldn't understand why I would want to do this. \"I just want to listen to my Walkman on the bus\", was all I could come up with."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351481767,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/131317_10151218024349321_763979304_o_10151218024349321.jpg",
+       :creation_timestamp 1351481765,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Added some blue-raspberry creme to the front."}}]}]}
+ {:timestamp 1351375380,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/134036_10151215472199321_782939440_o_10151215472199321.jpg",
+       :creation_timestamp 1351375379,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description "Now weâre cookinâ."}}]}]}
+ {:timestamp 1351319986,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=0_3C99nxjPU"}}]}],
+  :data
+  [{:post
+    "Thanks! I get how the F also works but I seem to hear the G# very strong. What about the Em? I don't really get how that fits. Anyway, I really appreciate it... I got your comment and I couldn't wait to come home and try it!"}
+   {:update_timestamp 1351319986}]}
+ {:timestamp 1351316458,
+  :data
+  [{:post
+    "Since the podcast is now sort of part of the curriculum, I'm looking into options to enable myself to do portable audio editing. An iPhone would work, and probably lots of other gadgets too. Every day I go to school I have 1-2 hours of bus time, and I could spend it preparing the mp3s for class."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351313689,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/MobileUploads_XVlsTXO8Mg/178199_10151214131714321_1047534247_o_10151214131714321.jpg",
+       :creation_timestamp 1351313687,
+       :media_metadata {:photo_metadata {:upload_ip "72.53.194.237"}},
+       :title "Mobile Uploads",
+       :description
+       "How to hang a uke on a wall w/o drilling any holes: 2 stick-on hooks, a dishcloth and some halloween duct-tape."}}]}]}
+ {:timestamp 1351311404,
+  :attachments
+  [{:data
+    [{:external_context {:url "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/"}}]}],
+  :data
+  [{:post
+    "http://www.officedepot.com/a/products/207684/Texas-Instruments-TI-30X-IIS-Solar/ Just got my calculator for math class, then I see they also make one in hot pink... wish I had known that before!"}
+   {:update_timestamp 1351311404}]}
+ {:timestamp 1351118929,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/confucianism-world-scriptures.html Here we go, on an interesting turn... you have to listen to these to have a clue what I mean."}
+   {:update_timestamp 1351118929}]}
+ {:timestamp 1351115579,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/w7jb/"}}]}],
+  :data [{:post "http://picosong.com/w7jb/ Ok, I might be going a bit crazy now..."} {:update_timestamp 1351115579}]}
+ {:timestamp 1351107006,
+  :data
+  [{:post
+    "My philosophy instructor found my podcast and recommended it to the class as a study aid! Coming up next: Confucianism."}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1351101348,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8C8z1wUn9A4"}}]}],
+  :data [{:post "http://www.youtube.com/watch?v=8C8z1wUn9A4 This is the original..."} {:update_timestamp 1351101348}]}
+ {:timestamp 1351099572,
+  :attachments
+  [{:data [{:external_context {:url "http://www.youtube.com/playlist?list=PL-pLOSLmb-mHMpKESKB5lmIiY4J_ijAzo"}}]}],
+  :data [{:post "I put together all my goofy ones... wow, it's 14 videos!"} {:update_timestamp 1351099572}]}
+ {:timestamp 1350778121,
+  :data
+  [{:post
+    "Which one of the following essay topics should I do?\n1. Karma / Free Will \n2. Mythology / Truth\n3. Sacredness"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1350759268,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"Whippin' the Children\" http://www.reverbnation.com/c./poni/146866965"}
+   {:update_timestamp 1350759268}]}
+ {:timestamp 1350758758,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post "Posted a new song: \"All That She Wanted\" http://www.reverbnation.com/c./poni/146864894"}
+   {:update_timestamp 1350758758}]}
+ {:timestamp 1350756751,
+  :attachments [{:data [{:external_context {:url "http://www.reverbnation.com/artist/fb_share/1139975"}}]}],
+  :data
+  [{:post
+    "Hi to all who have been here recently. I'll try to get around to checking out your stuff, and posting more music. Cheers!"}
+   {:update_timestamp 1350756751}]}
+ {:timestamp 1350678143,
+  :attachments [{:data [{:external_context {:url "http://kiwi6.com/file/m6rg6b41ie"}}]}],
+  :data
+  [{:post
+    "http://kiwi6.com/file/m6rg6b41ie Beethoven, ridiculously compressed for today's noisy listening environments."}
+   {:update_timestamp 1350678143}]}
+ {:timestamp 1350530704,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=qrrzn0E1q2U"}}]}],
+  :data
+  [{:post "What a sweet, awesome comment! What's funny is I was just playing this song earlier today."}
+   {:update_timestamp 1350530704}]}
+ {:timestamp 1350506572,
+  :attachments
+  [{:data
+    [{:media
+      {:uri "photos_and_videos/TimelinePhotos_abuzpnE9TQ/68040_10151199462734321_2070957158_n_10151199462734321.jpg",
+       :creation_timestamp 1350506570,
+       :media_metadata {:photo_metadata {:upload_ip "66.253.197.94"}},
+       :title "Timeline Photos",
+       :description "Me in piano class... drawn by my dad."}}]}]}
+ {:timestamp 1350161083,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/the-worlds-religions-buddhism-part-1.html After struggling with the morality of the Gita, I now move on to Buddhism."}
+   {:update_timestamp 1350161083}]}
+ {:timestamp 1350025851,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=Y0Z0raWIHXk"}}]}],
+  :data
+  [{:post
+    "I had my first math test today. I think I did pretty good... I had some good preparation from one of my favorite people."}
+   {:update_timestamp 1350025851}]}
+ {:timestamp 1349905669,
+  :data [{:post "made my day when i heard the WTC while walking by. you rock!"}],
+  :title "Bobby Towers wrote on The Aly Way's timeline."}
+ {:timestamp 1349783733, :attachments [], :data [{:update_timestamp 1349783733}]}
+ {:timestamp 1349747437,
+  :attachments
+  [{:data
+    [{:external_context
+      {:url "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/2012/10/letter-from-birmingham-city-jail-part-1.html This one is for my writing class."}
+   {:update_timestamp 1349747437}]}
+ {:timestamp 1349736195,
+  :attachments [{:data [{:external_context {:url "http://collegerecordingjunkie.blogspot.com/"}}]}],
+  :data
+  [{:post
+    "http://collegerecordingjunkie.blogspot.com/ I made a blog to document my readings for school. The first post is for my philosophy of religion course, where we are currently dealing with Hinduism."}
+   {:update_timestamp 1349736195}]}
+ {:timestamp 1349624403,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=ZKGR-b13_co"}}]}],
+  :data
+  [{:post
+    "Hans von BÃ¼low called Beethoven's piano sonatas \"The New Testament\" of music (Bach's The Well-Tempered Clavier being \"The Old Testament\")."}
+   {:update_timestamp 1349624403}]}
+ {:timestamp 1349558673,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=SV1OCWiW8hI"}}]}],
+  :data
+  [{:post "I used to do cool stuff while studying, like scream and play it on the mandolin."}
+   {:update_timestamp 1349558673}]}
+ {:timestamp 1349501937,
+  :attachments [{:data [{:external_context {:url "http://picosong.com/wHK2/"}}]}],
+  :data [{:post "http://picosong.com/wHK2/"} {:update_timestamp 1349501937}]}
+ {:timestamp 1349464684,
+  :data [{:post "Philosophy of Religion... blech... I should have taken Chemistry or something useful"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349460734,
+  :data
+  [{:post
+    "WARNING LETTER TO ALL RESIDENTS AND THEIR GUESTS: âIn the past few weeks, we have received numerous complaints about smelling marijuana in the halls/units of University Pointe.  The smell is harming other residents as many are allergic.â"}],
+  :title "Bobby Towers updated their status."}
+ {:timestamp 1349414100,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=8z7h7vhAbOQ"}}]}],
+  :data [{:post "http://youtu.be/8z7h7vhAbOQ Makeshift turban: Actually, I'm wearing my pants on my head."}],
+  :title "Bobby Towers posted in Jews who like Turbans."}
+ {:timestamp 1349298862,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=6cX-WKmoMXU"}}]}],
+  :data
+  [{:post "Anyone remember this track from the 90s? It's the famous melody from Mozart's 40th!"}
+   {:update_timestamp 1349298862}]}
+ {:timestamp 1349122176,
+  :attachments [{:data [{:external_context {:url "http://www.youtube.com/watch?v=jklHHB4o6xA"}}]}],
+  :data
+  [{:post
+    "Some people think that I've changed a lot. Watch this video from nearly two years ago, and decide for yourself!"}
+   {:update_timestamp 1349122176}]})
+clj꞉porkostomus.fb꞉> 
