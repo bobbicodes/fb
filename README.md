@@ -21,6 +21,12 @@ Retrieve posts from October 2010:
          (c/to-epoch (t/date-time 2010 11)))
 ```
 
+Find posts containing the word "computer from Feb 2007 to Feb 2012:
+
+```clojure
+(search "computer" 2 2007 2 2012)
+```
+
 Run the project's tests (they'll fail until you edit them):
 
     $ clojure -M:test:runner
